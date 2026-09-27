@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
-"""Unspun static news site generator.
+"""Unspun static NEWS site generator.
 
 Reads editions/<YYYY-MM-DD>/edition.json + stories.json, writes a static
-site into site/ ready for GitHub Pages.
+news site into docs/ ready for GitHub Pages.
+
+- Homepage: today's front page (lead broadcast + top stories).
+- /editions/<date>/: the day's front page.
+- /editions/<date>/<slug>/: each story's own article page with its audio.
+- /archive.html: past editions.
 
 stories.json entry:
-  {id, slug, headline, dek, body, audio, sources[], }
+  {id, slug, headline, dek, body, audio, sources[], order}
 body: plain text, paragraphs separated by blank lines.
 Durations are probed from the mp3 files automatically.
 """
@@ -15,7 +20,6 @@ import re
 import shutil
 import subprocess
 import sys
-from datetime import datetime
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 EDITIONS = os.path.join(ROOT, "editions")
@@ -65,25 +69,31 @@ header.site .wrap{display:flex;align-items:center;justify-content:space-between}
 .brand span{color:#ffd23f}
 .tagline{font-size:12px;color:#bbb;margin-top:2px}
 nav a{color:#ddd;font-size:14px;margin-left:18px}
-.hero{background:#fff;border-bottom:1px solid #e3e3e0;padding:28px 0}
-.hero .kicker{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:#888;margin-bottom:8px}
-.hero h1{font-size:30px;line-height:1.2;margin-bottom:10px}
-.hero .desc{color:#444;font-size:16px;margin-bottom:16px}
+.masthead{background:#fff;border-bottom:2px solid #111;padding:22px 0 16px}
+.masthead .dateline{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:#888;margin-bottom:6px}
+.masthead h1{font-size:34px;line-height:1.15;margin-bottom:8px}
+.masthead .standfirst{color:#444;font-size:16px;margin-bottom:14px}
 audio{width:100%;margin:10px 0}
 .ep-meta{font-size:13px;color:#777}
-.stories{padding:26px 0}
-.story-card{background:#fff;border:1px solid #e6e6e3;border-radius:10px;padding:20px;margin-bottom:18px}
-.story-card h2{font-size:21px;line-height:1.3;margin-bottom:6px}
-.story-card h2 a{color:#1a1a1a}
-.story-card .dek{color:#555;font-size:15px;margin-bottom:10px}
-.story-card .meta{font-size:12px;color:#888;margin-top:8px}
+.broadcast{background:#fff;border:1px solid #e6e6e3;border-radius:10px;padding:20px;margin:22px 0}
+.broadcast .kicker{font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:#888;margin-bottom:8px}
+.broadcast h2{font-size:22px;margin-bottom:8px}
+.section-head{font-size:13px;text-transform:uppercase;letter-spacing:1.5px;color:#888;margin:28px 0 12px;border-bottom:2px solid #111;padding-bottom:6px}
+.story-lead{background:#fff;border:1px solid #e6e6e3;border-radius:10px;padding:22px;margin-bottom:14px}
+.story-lead h2{font-size:24px;line-height:1.25;margin-bottom:6px}
+.story-lead h2 a,.story-row h3 a{color:#1a1a1a}
+.story-row{background:#fff;border:1px solid #e6e6e3;border-radius:10px;padding:16px 20px;margin-bottom:12px}
+.story-row h3{font-size:19px;line-height:1.3;margin-bottom:4px}
+.dek{color:#555;font-size:15px;margin-bottom:8px}
+.meta{font-size:12px;color:#888;margin-top:6px}
 article.story{background:#fff;border:1px solid #e6e6e3;border-radius:10px;padding:26px 22px;margin:22px 0}
-article.story h2{font-size:26px;line-height:1.25;margin-bottom:8px}
+article.story h1{font-size:28px;line-height:1.25;margin-bottom:8px}
 article.story .dek{font-size:17px;color:#444;margin-bottom:12px}
 article.story .byline{font-size:13px;color:#888;margin-bottom:14px}
 article.story p{margin-bottom:14px;font-size:16px}
 .sources{margin-top:18px;padding-top:14px;border-top:1px solid #eee;font-size:13px;color:#666}
 .sources strong{color:#444}
+.story-nav{display:flex;justify-content:space-between;margin:24px 0;font-size:14px}
 .how{background:#fffbe8;border:1px solid #f0e3a0;border-radius:10px;padding:18px;margin:26px 0;font-size:14px;color:#555}
 footer.site{border-top:1px solid #e3e3e0;padding:22px 0;margin-top:30px;font-size:13px;color:#888}
 .archive-list{list-style:none;padding:20px 0}
@@ -93,7 +103,7 @@ footer.site{border-top:1px solid #e3e3e0;padding:22px 0;margin-top:30px;font-siz
 
 HEADER = """<header class="site"><div class="wrap">
 <div><a class="brand" href="{base}/">UNSPUN<span>.</span></a><div class="tagline">Just the facts.</div></div>
-<nav><a href="{base}/">Today</a><a href="{base}/archive.html">Archive</a></nav>
+<nav><a href="{base}/">Front page</a><a href="{base}/archive.html">Archive</a></nav>
 </div></header>"""
 
 FOOTER = """<footer class="site"><div class="wrap">
@@ -102,6 +112,14 @@ Questions or corrections: reply in the Muse app.
 </div></footer>"""
 
 HOW = """<div class="how"><strong>How we verify.</strong> Every Unspun story is checked against named, published sources before it appears here. Numbers come from the source that reported them. When sources disagree or something is unknown, we say so. We never infer motives or attribute feelings that weren't explicitly stated.</div>"""
+
+PAGE_TOP = """<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{title} | Unspun</title>
+<link rel="stylesheet" href="{base}/static/style.css"></head>
+<body>
+"""
 
 
 def load_edition(date):
@@ -115,6 +133,7 @@ def load_edition(date):
 
 def build_edition(date):
     edition, stories = load_edition(date)
+    stories = sorted(stories, key=lambda s: s.get("order", 0))
     src_audio = os.path.join(EDITIONS, date, "audio")
     dst_audio = os.path.join(SITE, "audio", date)
     os.makedirs(dst_audio, exist_ok=True)
@@ -122,116 +141,149 @@ def build_edition(date):
     ep_path = os.path.join(src_audio, edition["episode_audio"])
     ep_dur = ffprobe_duration(ep_path)
     shutil.copy2(ep_path, os.path.join(dst_audio, edition["episode_audio"]))
+    ep_url = f"{BASE_URL}/audio/{date}/{edition['episode_audio']}"
 
-    story_html = []
-    cards = []
+    story_infos = []
     for st in stories:
         a_path = os.path.join(src_audio, st["audio"])
         dur = ffprobe_duration(a_path)
         shutil.copy2(a_path, os.path.join(dst_audio, st["audio"]))
-        audio_url = f"{BASE_URL}/audio/{date}/{st['audio']}"
-        body_html = render_body(st["body"])
-        sources = ", ".join(esc(s) for s in st.get("sources", []))
-        story_html.append(f"""<article class="story" id="{st['slug']}">
-<h2>{esc(st['headline'])}</h2>
-<div class="dek">{esc(st['dek'])}</div>
-<div class="byline">Unspun &middot; {esc(edition['date_label'])} &middot; Listen: {fmt_duration(dur)}</div>
-<audio controls preload="none" src="{audio_url}"></audio>
-{body_html}
-<div class="sources"><strong>Sources:</strong> {sources}</div>
-</article>""")
-        cards.append(f"""<div class="story-card">
-<h2><a href="{BASE_URL}/editions/{date}/#{st['slug']}">{esc(st['headline'])}</a></h2>
-<div class="dek">{esc(st['dek'])}</div>
-<audio controls preload="none" src="{audio_url}"></audio>
-<div class="meta">Listen: {fmt_duration(dur)} &middot; <a href="{BASE_URL}/editions/{date}/#{st['slug']}">Read the story</a></div>
-</div>""")
-
-    ep_url = f"{BASE_URL}/audio/{date}/{edition['episode_audio']}"
-    edition_page = f"""<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{esc(edition['title'])} | Unspun</title>
-<link rel="stylesheet" href="{BASE_URL}/static/style.css"></head>
-<body>
-{HEADER.format(base=BASE_URL)}
-<div class="wrap">
-<div class="hero" style="background:none;border:none;padding:26px 0 6px">
-<div class="kicker">Daily edition &middot; {esc(edition['date_label'])}</div>
-<h1>{esc(edition['title'])}</h1>
-<div class="desc">{esc(edition['description'])}</div>
-<audio controls preload="none" src="{ep_url}"></audio>
-<div class="ep-meta">Full episode &middot; {fmt_duration(ep_dur)} &middot; voice only, no music</div>
-</div>
-{HOW}
-{''.join(story_html)}
-</div>
-{FOOTER}
-</body></html>"""
+        story_infos.append({**st, "dur": dur,
+                            "url": f"{BASE_URL}/editions/{date}/{st['slug']}/",
+                            "audio_url": f"{BASE_URL}/audio/{date}/{st['audio']}"})
 
     out_dir = os.path.join(SITE, "editions", date)
     os.makedirs(out_dir, exist_ok=True)
-    with open(os.path.join(out_dir, "index.html"), "w") as f:
-        f.write(edition_page)
-    return edition, stories, ep_dur
 
-
-def build_index_and_archive(editions_built):
-    # editions_built: list of (date, edition, ep_dur), newest first
-    date, edition, ep_dur = editions_built[0]
-    _, stories = load_edition(date)
-    ep_url = f"{BASE_URL}/audio/{date}/{edition['episode_audio']}"
-    cards = []
-    for st in stories:
-        audio_url = f"{BASE_URL}/audio/{date}/{st['audio']}"
-        cards.append(f"""<div class="story-card">
-<h2><a href="{BASE_URL}/editions/{date}/#{st['slug']}">{esc(st['headline'])}</a></h2>
-<div class="dek">{esc(st['dek'])}</div>
-<audio controls preload="none" src="{audio_url}"></audio>
-</div>""")
-
-    index = f"""<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Unspun | Just the facts.</title>
-<link rel="stylesheet" href="{BASE_URL}/static/style.css"></head>
-<body>
-{HEADER.format(base=BASE_URL)}
+    # Per-story article pages
+    for i, st in enumerate(story_infos):
+        sources = ", ".join(esc(s) for s in st.get("sources", []))
+        nav = []
+        if i > 0:
+            p = story_infos[i - 1]
+            nav.append(f'<a href="{p["url"]}">&larr; {esc(p["headline"])}</a>')
+        else:
+            nav.append(f'<a href="{BASE_URL}/editions/{date}/">&larr; Front page</a>')
+        if i < len(story_infos) - 1:
+            n = story_infos[i + 1]
+            nav.append(f'<a href="{n["url"]}">{esc(n["headline"])} &rarr;</a>')
+        else:
+            nav.append(f'<a href="{BASE_URL}/editions/{date}/">Front page &rarr;</a>')
+        page = (PAGE_TOP.format(title=st["headline"], base=BASE_URL)
+                + HEADER.format(base=BASE_URL) + f"""
 <div class="wrap">
-<div class="hero">
-<div class="kicker">Today's edition &middot; {esc(edition['date_label'])}</div>
+<article class="story">
+<div class="dateline" style="font-size:12px;text-transform:uppercase;letter-spacing:1.5px;color:#888;margin-bottom:8px">Unspun &middot; {esc(edition['date_label'])}</div>
+<h1>{esc(st['headline'])}</h1>
+<div class="dek">{esc(st['dek'])}</div>
+<div class="byline">Unspun &middot; Listen: {fmt_duration(st['dur'])}</div>
+<audio controls preload="none" src="{st['audio_url']}"></audio>
+{render_body(st['body'])}
+<div class="sources"><strong>Sources:</strong> {sources}</div>
+</article>
+<div class="story-nav">{' '.join(f'<span>{x}</span>' for x in nav)}</div>
+</div>
+{FOOTER}
+</body></html>""")
+        sdir = os.path.join(out_dir, st["slug"])
+        os.makedirs(sdir, exist_ok=True)
+        with open(os.path.join(sdir, "index.html"), "w") as f:
+            f.write(page)
+
+    # Day's front page
+    lead = story_infos[0]
+    rows = []
+    for st in story_infos[1:]:
+        rows.append(f"""<div class="story-row">
+<h3><a href="{st['url']}">{esc(st['headline'])}</a></h3>
+<div class="dek">{esc(st['dek'])}</div>
+<audio controls preload="none" src="{st['audio_url']}"></audio>
+<div class="meta">Listen: {fmt_duration(st['dur'])}</div>
+</div>""")
+    edition_page = (PAGE_TOP.format(title=edition["title"], base=BASE_URL)
+                    + HEADER.format(base=BASE_URL) + f"""
+<div class="wrap">
+<div class="masthead">
+<div class="dateline">{esc(edition['date_label'])} &middot; Daily edition</div>
 <h1>{esc(edition['title'])}</h1>
-<div class="desc">{esc(edition['description'])}</div>
+<div class="standfirst">{esc(edition['description'])}</div>
+</div>
+<div class="broadcast">
+<div class="kicker">Today's broadcast</div>
+<h2>Listen to the full newscast</h2>
 <audio controls preload="none" src="{ep_url}"></audio>
 <div class="ep-meta">Full episode &middot; {fmt_duration(ep_dur)} &middot; voice only, no music</div>
 </div>
 {HOW}
-<div class="stories">
-{''.join(cards)}
+<div class="section-head">Top stories</div>
+<div class="story-lead">
+<h2><a href="{lead['url']}">{esc(lead['headline'])}</a></h2>
+<div class="dek">{esc(lead['dek'])}</div>
+<audio controls preload="none" src="{lead['audio_url']}"></audio>
+<div class="meta">Listen: {fmt_duration(lead['dur'])} &middot; <a href="{lead['url']}">Read the story</a></div>
 </div>
+{''.join(rows)}
 </div>
 {FOOTER}
-</body></html>"""
+</body></html>""")
+    with open(os.path.join(out_dir, "index.html"), "w") as f:
+        f.write(edition_page)
+    return edition, story_infos, ep_dur
+
+
+def build_index_and_archive(editions_built):
+    # editions_built: list of (date, edition, story_infos, ep_dur), newest first
+    date, edition, story_infos, ep_dur = editions_built[0]
+    ep_url = f"{BASE_URL}/audio/{date}/{edition['episode_audio']}"
+    lead = story_infos[0]
+    rows = []
+    for st in story_infos[1:]:
+        rows.append(f"""<div class="story-row">
+<h3><a href="{st['url']}">{esc(st['headline'])}</a></h3>
+<div class="dek">{esc(st['dek'])}</div>
+<audio controls preload="none" src="{st['audio_url']}"></audio>
+<div class="meta">Listen: {fmt_duration(st['dur'])}</div>
+</div>""")
+    index = (PAGE_TOP.format(title="Just the facts.", base=BASE_URL)
+             + HEADER.format(base=BASE_URL) + f"""
+<div class="wrap">
+<div class="masthead">
+<div class="dateline">{esc(edition['date_label'])} &middot; Latest</div>
+<h1>Unspun</h1>
+<div class="standfirst">{esc(edition['description'])}</div>
+</div>
+<div class="broadcast">
+<div class="kicker">Today's broadcast</div>
+<h2>{esc(edition['title'])}</h2>
+<audio controls preload="none" src="{ep_url}"></audio>
+<div class="ep-meta">Full episode &middot; {fmt_duration(ep_dur)} &middot; voice only, no music</div>
+</div>
+<div class="section-head">Top stories</div>
+<div class="story-lead">
+<h2><a href="{lead['url']}">{esc(lead['headline'])}</a></h2>
+<div class="dek">{esc(lead['dek'])}</div>
+<audio controls preload="none" src="{lead['audio_url']}"></audio>
+<div class="meta">Listen: {fmt_duration(lead['dur'])} &middot; <a href="{lead['url']}">Read the story</a></div>
+</div>
+{''.join(rows)}
+</div>
+{FOOTER}
+</body></html>""")
     with open(os.path.join(SITE, "index.html"), "w") as f:
         f.write(index)
 
     items = []
-    for d, ed, dur in editions_built:
+    for d, ed, _, dur in editions_built:
         items.append(f"""<li><a href="{BASE_URL}/editions/{d}/"><strong>{esc(ed['title'])}</strong></a>
 <div class="d">{esc(ed['date_label'])} &middot; full episode {fmt_duration(dur)}</div></li>""")
-    archive = f"""<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Archive | Unspun</title>
-<link rel="stylesheet" href="{BASE_URL}/static/style.css"></head>
-<body>
-{HEADER.format(base=BASE_URL)}
+    archive = (PAGE_TOP.format(title="Archive", base=BASE_URL)
+               + HEADER.format(base=BASE_URL) + f"""
 <div class="wrap">
-<div class="hero"><div class="kicker">Archive</div><h1>Past editions</h1></div>
+<div class="masthead"><div class="dateline">Archive</div><h1>Past editions</h1></div>
 <ul class="archive-list">{''.join(items)}</ul>
 </div>
 {FOOTER}
-</body></html>"""
+</body></html>""")
     with open(os.path.join(SITE, "archive.html"), "w") as f:
         f.write(archive)
 
@@ -247,13 +299,11 @@ def main():
     os.makedirs(os.path.join(SITE, "static"), exist_ok=True)
     with open(os.path.join(SITE, "static", "style.css"), "w") as f:
         f.write(CSS)
-    # placeholder to keep dirs in git
     built = []
     for d in dates:
-        edition, _, ep_dur = build_edition(d)
-        built.append((d, edition, ep_dur))
+        edition, story_infos, ep_dur = build_edition(d)
+        built.append((d, edition, story_infos, ep_dur))
     build_index_and_archive(built)
-    # CNAME-less; .nojekyll for Pages
     open(os.path.join(SITE, ".nojekyll"), "w").close()
     print(f"built {len(built)} edition(s): {', '.join(dates)}")
 

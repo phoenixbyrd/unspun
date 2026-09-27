@@ -1,0 +1,209 @@
+[
+  {
+    "audio": "sg01-noreaster.mp3",
+    "body": "A powerful nor'easter has been battering the East Coast from Virginia to Maine since Friday night, bringing coastal flooding, heavy rain, and strong winds. As of Sunday morning, rain and strong winds continued across the region, with the heaviest rain expected from southern New Jersey to northern Massachusetts.\n\nA 56-year-old man was killed in East New York, Brooklyn, on Saturday afternoon when 45-mile-per-hour gusts toppled a tree onto Euclid Avenue. He was pronounced dead at Brookdale Hospital after 5 p.m., according to police cited in the reporting. His name was not released.\n\nNearly 80,000 customers were without power across New Jersey, New York, Pennsylvania, Connecticut, and Massachusetts as of Saturday evening, according to the PowerOutage.com map cited by NPR. At the peak Saturday, the number exceeded 100,000. FlightAware counted 445 flights canceled and 3,016 delayed at U.S. airports as of Saturday night.\n\nIn Atlantic City, New Jersey, resident Talia Manno told NPR that waves reached halfway up the front steps of her home, the highest water she had seen since Hurricane Sandy. In Scituate, Massachusetts, waves crashed over homes on Rebecca Road. Videos showed people kayaking in flooded New York City streets. The governors of New York and New Jersey declared states of emergency Friday; Connecticut activated its Emergency Operations Center.\n\nThe National Weather Service expects the storm to meander offshore Sunday, with rain lingering over much of the Northeast and coastal flooding possible at high tides. The weakened storm is expected to sit on or just off the coast Monday, with showers and gusty winds lingering over New England, Long Island, and the Hudson Valley. The storm is expected to last through Monday evening. Coastal wind gusts could reach 60 mph. Boston is under a flood watch until 2 a.m. Tuesday.\n\nNWS meteorologist Francis Tarasiewicz noted the storm arrived earlier than the typical October-through-May nor'easter season and is lasting longer than normal. The Weather Service advises against driving through flooded streets; its guidance states six inches of moving water can knock an adult off their feet and twelve inches can carry away a car.",
+    "dek": "The storm has hit the coast from Virginia to Maine since Friday night. Warnings continue through Monday evening.",
+    "headline": "Nor'easter batters East Coast; one dead in Brooklyn, tens of thousands without power",
+    "id": "noreaster",
+    "slug": "noreaster-east-coast",
+    "sources": [
+      "National Weather Service",
+      "PowerOutage.com via NPR",
+      "FlightAware",
+      "weather.com live updates",
+      "USA Today"
+    ],
+    "order": 1
+  },
+  {
+    "audio": "sg02-iran.mp3",
+    "body": "President Trump said Saturday he had rejected an Iranian proposal transmitted through Qatari mediators at the United Nations General Assembly. The proposal offered a seven-day military pause plus reopening of the Strait of Hormuz in exchange for lifting American sanctions and the blockade and resuming nuclear talks. The Wall Street Journal first reported the rejection Friday, citing unnamed American officials.\n\n\"They want to make a deal, and that's fine, I like making a deal too, but that deal would not be acceptable,\" Trump told reporters outside the White House. He said Iran \"outsmarted themselves\" by closing the strait and described Iran as \"dying\" with \"no money coming in.\" He also mocked Iran's missile capabilities, saying, \"They had trouble with the missiles. They couldn't even shoot a missile. They were terrible at it.\" On Truth Social Saturday morning he wrote, in all caps, \"IRAN CAN NOT HAVE A NUCLEAR WEAPON.\"\n\nIran's foreign minister, Abbas Araqchi, said the mediators had not officially conveyed a definitive American rejection to Tehran: \"We are waiting for the mediators to convey the definitive views to us.\" Iran's president, Pezeshkian, said Tehran remains open to negotiation but distrusts Washington. The Journal also reported Trump is privately skeptical Iran would meet his demands and told staff he sees a renewed bombing campaign as likely after the November 3 midterms, sourced to unnamed officials.\n\nThe Strait of Hormuz, between Iran and Oman, is the world's most important oil chokepoint; roughly a fifth of the world's petroleum consumption passes through it. Reporting puts tanker transit roughly 90 percent below pre-war levels. Trump's statement that \"massive amounts of oil are coming out of the Hormuz Strait\" is not supported by the shipping data cited in coverage.\n\nBrent crude closed Thursday at $106.60 a barrel, up 3.4 percent, and West Texas Intermediate at $94.61, up 2.7 percent. Both sold off Friday on hopes of a deal. Brent is up more than 17 percent in September. Regular gasoline in Los Angeles was above $7 a gallon, per an AFP photo caption. A Reuters/Ipsos poll from September 21 found 34 percent approve of the Iran strikes and 17 percent approve of the president's handling of the cost of living. The war began in February; a June truce collapsed within weeks after Iranian forces fired on commercial vessels.",
+    "dek": "The proposal, conveyed through Qatari mediators, offered a seven-day pause in exchange for sanctions relief. Tehran says no definitive rejection has been conveyed.",
+    "headline": "Trump rejects Iran's proposal to pause fighting and reopen Strait of Hormuz",
+    "id": "iran",
+    "slug": "trump-rejects-iran-proposal-hormuz",
+    "sources": [
+      "The Wall Street Journal",
+      "Reuters",
+      "Truth Social",
+      "AFP"
+    ],
+    "order": 2
+  },
+  {
+    "audio": "sg08-mortgage.mp3",
+    "body": "The average 30-year fixed mortgage rate crossed 7 percent this week for the first time since January 2025. Freddie Mac's weekly survey put the rate at 7.03 percent on September 24. The Mortgage Bankers Association reported 7.12 percent the prior week, the highest since May 2024. Daily tracker Mortgage News Daily recorded 7.37 to 7.49 percent on September 24 and 25.\n\nThe driver is the bond market. The 10-year Treasury yield closed Friday just below 5.2 percent, its highest in more than two decades, with intraday highs of 5.18 to 5.21 percent reported. Mortgage rates follow the 10-year yield.\n\nBright MLS chief economist Lisa Sturtevant said an increase from 6.5 to 7 percent adds more than $125 to the typical monthly payment on a median-priced U.S. home. The rate was as low as 5.99 percent at the end of February.\n\nAbout half of mortgaged homeowners pay less than 4 percent and are reluctant to sell and re-borrow at 7 percent, freezing inventory.\n\nFed Governor Michael Barr said this week: \"Economic growth is strong, and the labor market is solid. But inflation is above our 2% target and not clearly trending toward target in a timely way.\" The Fed raised its target range to 3.75 to 4.00 percent on September 16. CME FedWatch put the market odds of another October hike at about 70.9 percent as of September 24, a probability, not a decision. The figures come from surveys with different methodologies and are not directly comparable.",
+    "dek": "Freddie Mac put the 30-year fixed rate at 7.03%. The bond market behind it is at its highest in more than 20 years.",
+    "headline": "Mortgage rates break past 7% as 10-year Treasury hits two-decade high",
+    "id": "mortgage",
+    "slug": "mortgage-rates-past-seven-percent",
+    "sources": [
+      "Freddie Mac",
+      "Mortgage Bankers Association",
+      "Mortgage News Daily",
+      "NPR",
+      "Bright MLS",
+      "CME FedWatch"
+    ],
+    "order": 3
+  },
+  {
+    "audio": "sg03-china.mp3",
+    "body": "The Chinese president's three-day state visit to Washington ended Friday with both governments announcing an eight-point consensus. A White House fact sheet confirmed \"consensus on recommendations for more favorable tariff treatment for $30 billion of non-sensitive goods in each direction.\"\n\nCovered American exports include agricultural goods, wood products, medical devices, fish, and cosmetics. Covered Chinese imports include small appliances, toys, holiday decorations, and children's car seats. The cuts are reciprocal: each side reduces tariffs on $30 billion of the other's goods. The $30 billion is a fraction of total annual bilateral trade, which runs into the hundreds of billions.\n\nThe phrase \"non-sensitive goods\" defines the limits. Neither side touched advanced semiconductors, chipmaking equipment, rare earth minerals, or military applications, which remain under the heaviest restrictions.\n\nOn artificial intelligence, both sides agreed to a dialogue on AI risks and benefits, with the next round in November, plus a communication channel for AI-related incidents. On September 24, Xi said the U.S. and China must \"ensure that the development of AI is always under human control.\" On September 26, Trump told reporters the two agreed to replace the term \"artificial intelligence\" with \"superintelligence.\" China also agreed to buy at least 10 million metric tons of American coal annually in 2027 and 2028.\n\nThere is no specific bulk agricultural purchase commitment, only a working group on market access. Farmers had sought enforceable annual commitments on soybeans and sorghum. U.S. Trade Representative Jamieson Greer told CNBC more details would be released Monday, September 28.\n\nTrump imposed a 10 percent tariff on Chinese goods in February; it escalated to 145 percent, China retaliated with 125 percent, and a May truce brought the U.S. rate to about 30 percent. This week the truce was extended two months past its November 10 expiration. Taiwan, semiconductors, rare earths, industrial overcapacity, and investment screening have no timelines attached.",
+    "dek": "Non-sensitive goods are covered. Taiwan, semiconductors, and rare earths remain unresolved.",
+    "headline": "U.S. and China agree to $30 billion in reciprocal tariff cuts as Xi visit ends",
+    "id": "china",
+    "slug": "us-china-30-billion-tariff-agreement",
+    "sources": [
+      "White House fact sheet",
+      "China's Foreign Ministry",
+      "CNBC",
+      "Reuters"
+    ],
+    "order": 4
+  },
+  {
+    "audio": "sg04-save.mp3",
+    "body": "The Supreme Court ruled Friday, in an unsigned 6-3 emergency order, that the Department of Homeland Security may resume using a revamped federal database for voter citizenship checks, lifting a June ruling by D.C. district judge Sparkle L. Sooknanan. Justices Sotomayor, Kagan, and Jackson dissented.\n\nThe database, SAVE (Systematic Alien Verification for Entitlements), dates to 1986 and was built to verify immigration status for public benefits. After the president's March 2025 executive order on voting, DHS linked SAVE to Social Security Administration data and enabled bulk searches by name, birthday, and Social Security number. Judge Sooknanan found in a 75-page opinion that officials had \"haphazardly combined and repurposed the private information of millions of Americans, including citizenship data that they knew to be unreliable.\"\n\nThe majority permitted \"individualized\" inquiries, warning it is too late in the 2026 cycle for mass voter-roll purges. The order is interim and does not resolve the underlying lawsuit. The majority said challengers' claims \"likely lack merit,\" citing a 1996 immigration law obligating DHS to answer states' citizenship questions. The dissent reads that duty as not authorizing a bulk-search system built from benefits-verification infrastructure.\n\nThe government told the Court it has checked more than 65 million registrations in 26 states and flagged 28,635 people as possible noncitizens. Those are flags, not confirmed noncitizen voters; no public data breaks down confirmations versus errors. The system's error rate has not been publicly disclosed. The court record includes a plaintiff whose registration was revoked without her knowledge and two others who had to prove citizenship.\n\nStates' use is voluntary, and the National Voter Registration Act bars most systematic removals within 90 days of a federal election. The midterms are November 3. Justice Jackson wrote that \"the harm caused by burdening or disenfranchising even a few lawful voters outweighs the nonexistent harm that the Government experiences when it is prevented from taking an action that it likely lacks the authority to take.\"",
+    "dek": "The 6-3 emergency order permits individualized inquiries but warns against mass purges 38 days before the midterms.",
+    "headline": "Supreme Court allows expanded use of SAVE citizenship database for voter checks",
+    "id": "save",
+    "slug": "supreme-court-save-voter-database",
+    "sources": [
+      "Supreme Court order",
+      "D.C. district court opinion",
+      "Reuters",
+      "League of Women Voters"
+    ],
+    "order": 5
+  },
+  {
+    "audio": "sg05-rescission.mp3",
+    "body": "The White House announced Friday night it will cancel $810 million Congress had approved, via a \"pocket rescission\" notification from the president to House Speaker Mike Johnson. The breakdown: $567 million for the HHS Refugee and Entrant Assistance account, $70 million for international education programs, $56 million in HUD counseling grants, $25 million in migrant student education, $28 million in HHS research grants, $10 million of $50 million for Minority Business Development Agency programs, and $9 million in foreign debt relief tied to climate policies.\n\nThe Impoundment Control Act of 1974 bars the president from simply declining to spend appropriated funds. The formal process gives Congress 45 days to approve a rescission proposal. A pocket rescission submits the proposal so late in the fiscal year that the clock runs past September 30, when the money expires. The fiscal year ends Wednesday, September 30, five days after the announcement. Once funds lapse, restoring them requires a new appropriation. Agencies cannot spend funds under a rescission proposal while Congress considers it, so the programs are effectively frozen.\n\nThe White House says the money is no longer needed because illegal border crossings have fallen, calling it spending that \"does not benefit American citizens.\" Named in the announcement: Southwest Key Programs ($40 million), which faced a Justice Department suit alleging staff sexually abused unaccompanied minors, and Global Refuge, led by a former Obama administration policy director.\n\nSenator Susan Collins (R), chair of Senate Appropriations, called it an effort to \"undermine Congress's Constitutional power of the purse,\" said lawmakers got no warning, and said OMB \"intentionally withheld these funds for months.\" Senator Patty Murray (D) called it \"theft from the American people, plain and simple.\"\n\nLegality is unresolved. The Government Accountability Office has previously found pocket rescissions violate the act, but GAO opinions are not court orders. The administration cites older GAO correspondence and notes the Supreme Court declined to block last year's $4.9 billion foreign-aid rescission during litigation, a case that turned partly on foreign-affairs authority inapplicable to domestic spending. No court has ruled on this package.",
+    "dek": "The pocket rescission targets refugee assistance, housing counseling, education, and research funds. Its legality is unresolved.",
+    "headline": "White House moves to cancel $810 million in approved spending days before fiscal year ends",
+    "id": "rescission",
+    "slug": "810-million-pocket-rescission",
+    "sources": [
+      "OMB notification",
+      "Reuters",
+      "Government Accountability Office"
+    ],
+    "order": 6
+  },
+  {
+    "id": "ukraine",
+    "slug": "russia-strikes-ukraine-data-centers",
+    "headline": "Russia expands strikes on Ukrainian data centers; four killed in Kyiv",
+    "dek": "A drone strike on telecom offices in Kyiv killed four. About 100,000 households lost internet earlier in the week.",
+    "audio": "sg09-ukraine.mp3",
+    "sources": [
+      "Reuters",
+      "Ukraine's Digital Ministry",
+      "Russia's Defence Ministry",
+      "The Guardian"
+    ],
+    "body": "Russia has expanded its attacks on Ukraine's data centers and internet providers. On Friday, September 25, a Russian drone struck the Kyiv offices of Datagroup, one of Ukraine's largest telecommunications companies, killing four people and damaging a data center. In a separate attack, a 14-year-old boy was killed; Israel's Foreign Ministry identified him as an Israeli citizen.\n\nRussian drone attacks on September 23 and 24 disrupted internet service to about 100,000 households in Kyiv and the surrounding region, according to Ukraine's Digital Ministry. The outages knocked out internet-delivered air-raid alerts civilians rely on for warnings about incoming missiles and drones. Electronic transit displays in Lutsk were also affected.\n\nOn Saturday, September 26, President Volodymyr Zelensky accused Russia of targeting civilian infrastructure to disrupt daily life, saying \"all ordinary life\" had become a target. Russia's Defence Ministry said its forces struck data centers it claimed were used by Ukraine's military intelligence services. Ukrainian Foreign Minister Andrii Sybiha said the facilities were civilian infrastructure essential to transmitting life-saving alerts.\n\nWhether the struck data centers served military functions is directly disputed, and independent verification of either claim was not available in the reporting reviewed. Some companies are moving data to servers abroad. Officials warned of further outages and possible internet tariff increases from repair costs. The timeline for full restoration was not confirmed by Ukraine's Digital Ministry as of September 25.",
+    "order": 7
+  },
+  {
+    "id": "fueleconomy",
+    "slug": "fuel-economy-standards-rollback",
+    "headline": "Trump announces rollback of fuel-economy standards; formal rule expected Monday",
+    "dek": "A December proposal would cut the 2031 target from 50.4 to 34.5 mpg. The final rule text has not been released.",
+    "audio": "sg06-fueleconomy.mp3",
+    "sources": [
+      "Truth Social",
+      "NHTSA",
+      "EPA",
+      "Reuters"
+    ],
+    "body": "President Trump announced Saturday on Truth Social that he had \"just approved new Fuel Economy Standards\" that \"terminate\" the Biden-era electric vehicle push. Transportation Secretary Sean Duffy said the administration will formally announce the change Monday, September 28. The final regulatory text has not been released; the announcement was a social media post, not a published rule.\n\nA December 2025 proposal from the National Highway Traffic Safety Administration would cut the fleetwide fuel-economy target from about 50.4 miles per gallon by 2031 to about 34.5 miles per gallon for cars and light trucks.\n\nCAFE (Corporate Average Fuel Economy) dates to 1975, created after the Arab oil embargo. It sets a fleetwide average automakers must hit rather than dictating vehicle designs. The Biden administration's version effectively required a large share of electric vehicle sales, since 50.4 mpg cannot be hit on gasoline engines alone. The rollback target of about 34.5 mpg is roughly where the industry already is.\n\nThe administration projects the change will save Americans $109 billion over five years and cut the average new-vehicle price by nearly $1,000 versus the Biden standards. Trump wrote it will mean \"lower prices, saving families thousands on a new, beautiful, and safe car.\" Congress has already zeroed out fines for automakers that miss the standards. GM, Ford, and Stellantis welcomed the change and announced billions in new U.S. manufacturing investment.\n\nNHTSA's own modeling projects up to 100 billion more gallons of fuel burned through 2050 under the rollback. Environmental groups cite EPA analysis that eliminating the standards raises lifetime fuel costs for drivers. Both sides' numbers are projections with disputed assumptions; the direction of each effect is clear while the magnitudes are not settled. Until a final rule is published, current standards remain in effect, and the Biden-era standards were litigated for years.",
+    "order": 8
+  },
+  {
+    "id": "tiktok",
+    "slug": "tiktok-alabama-settlement-teen-limits",
+    "headline": "TikTok settles with Alabama for at least $100 million, agrees to teen usage limits",
+    "dek": "Teen limits include a two-hour daily cap and an overnight block. At least 27 other states have similar suits.",
+    "audio": "sg10-tiktok.mp3",
+    "sources": [
+      "Reuters",
+      "Alabama Attorney General",
+      "TechXplore"
+    ],
+    "body": "Alabama announced Friday, September 25, that it had reached a settlement with TikTok and its parent company ByteDance, resolving claims the platform endangered children and misled consumers about safety. The agreement came days before a trial scheduled to begin Monday, September 28, in Montgomery state court. Attorney General Steve Marshall, who sued the company last year, called it \"a great day for Alabama parents.\"\n\nUnder the agreement, TikTok will impose new usage limits for Alabama teenagers: a two-hour daily time limit, pauses after 15 minutes of use, stricter age checks, restricted overnight access, and suspended notifications during school hours. TikTok will also ban beauty filters for teenagers and offer young users a nonpersonalized content feed. The overnight block runs midnight to 6 a.m., with a conditional expansion to 10 p.m. to 7 a.m. if other platforms make the same commitment. Some measures phase in over up to a year.\n\nTikTok pays Alabama at least $100 million within 45 days, growing to as much as $300 million if 40 other state attorneys general sign similar agreements within a specified timeframe. The exact timeframe was not specified in the reporting reviewed. It is TikTok's first settlement with a U.S. state.\n\nAt least 27 other states and Washington, D.C., have brought similar lawsuits. The settlement mirrors safety provisions Meta agreed to in August, when it settled a sweeping state lawsuit over Instagram and Facebook for $18 billion.\n\nThe underlying claims were settled, not adjudicated. No court ruled on whether TikTok endangered children or misled consumers.",
+    "order": 9
+  },
+  {
+    "id": "ford",
+    "slug": "ford-halts-f150-dearborn-supply",
+    "headline": "Ford halts F-150 production at Dearborn plant for nearly a week over supply problem",
+    "dek": "All crews canceled September 24-29 over an unspecified supply problem. About 3,500 to 4,000 workers are affected.",
+    "audio": "sg11-ford.mp3",
+    "sources": [
+      "Reuters",
+      "Detroit Free Press",
+      "Cox Automotive"
+    ],
+    "body": "Production of Ford's F-150 pickup has been halted for nearly a week at the Dearborn Truck Plant near Detroit. According to a memo viewed by Reuters, all production crews were canceled starting Thursday, September 24, through Tuesday, September 29. A person familiar with the matter said the outage was caused by a supply problem. Kansas City Assembly also canceled some shifts this week over the same issue, while the Kentucky Truck Plant near Louisville increased production to offset the losses.\n\nThe specific supplier and part are unknown. Ford declined to comment, and Reuters could not determine the cause. UAW Local 249 bargaining chair Jim Fisher suggested aluminum, but the source familiar with the matter said the outage was unrelated to the Novelis aluminum shortage that cost Ford tens of thousands of vehicles of production after fires at the supplier's New York plant in 2025.\n\nThe Detroit Free Press reported the Dearborn halt affects roughly 3,500 to 4,000 workers, and 15 shifts have been canceled at Kansas City Assembly since the beginning of September. Ford spokeswoman Christina Audisho said, \"We do not comment on day-to-day operations.\"\n\nThe F-150 is America's best-selling vehicle, a title it has held for 44 years, according to Reuters. Ford sold 828,832 F-Series trucks last year. Ford's vehicle sales were down about 10 percent year over year through August, with F-Series sales down 11 percent. Cox Automotive projects GM and Ford will have lost more U.S. market share through the first three quarters than any other automakers, and Hyundai and Kia combined are expected to surpass Ford in third-quarter sales for the first time.",
+    "order": 10
+  },
+  {
+    "id": "fda",
+    "slug": "fda-vitruvias-thyroid-recall-class-i",
+    "headline": "FDA raises Vitruvias thyroid tablet recall to Class I, its most serious level",
+    "dek": "Lot 504950 of Vitruvias Thyroid Tablets 30 mg may be \"superpotent.\" No injuries have been reported.",
+    "audio": "sg12-fda.mp3",
+    "sources": [
+      "FDA",
+      "USA Today",
+      "Vitruvias Therapeutics"
+    ],
+    "body": "The Food and Drug Administration has raised a thyroid drug recall to Class I, its most serious designation, meaning there is a reasonable probability the product could cause serious health consequences or death.\n\nOn September 22, the FDA categorized the recall of one lot of Vitruvias Therapeutics' Thyroid Tablets, USP, 30 mg, as Class I. The company voluntarily recalled the lot in August after testing confirmed the tablets could be \"superpotent,\" stronger than intended, which can cause hyperthyroidism (overactive thyroid). Symptoms include weight loss, heat intolerance, fatigue, hypertension, rapid heart rate, and heart rhythm disturbances. The elderly, pregnant women, and infants are at greatest risk.\n\nThe affected product: NDC 69680-166-00, Lot 504950, expiration September 30, 2026. Of 3,655 bottles released, 1,955 were sold, distributed nationwide from January 31 to September 30, 2025. The tablets are off-white to pale brown, round, possibly flecked, marked \"THY\" on one side and \"050\" on the other.\n\nVitruvias said it had received no reports of adverse events tied to the recall as of its August notice. The Class I designation reflects risk, not confirmed injuries, and only this single lot is affected.\n\nThe company noted the product is not levothyroxine or Synthroid, which are dosed in micrograms, a distinction aimed at reducing confusion. Roughly 7 percent of Americans have an active levothyroxine prescription.",
+    "order": 11
+  },
+  {
+    "id": "ecoli",
+    "slug": "ecoli-sierra-nevada-raw-milk-cheese",
+    "headline": "E. coli outbreak linked to Sierra Nevada raw-milk cheese: 13 sick, 8 hospitalized",
+    "dek": "Thirteen ill across nine states; eight hospitalized, three with kidney failure. All four Graziers varieties were recalled.",
+    "audio": "sg13-ecoli.mp3",
+    "sources": [
+      "CDC",
+      "FDA",
+      "NewsNation",
+      "Food Safety News"
+    ],
+    "body": "The CDC and FDA announced September 25 that a multistate outbreak of Shiga toxin-producing E. coli O26:H11 has been linked to Graziers grass-fed raw-milk cheese, made by Sierra Nevada Cheese Company of Willows, California.\n\nThirteen people in nine states have fallen ill: three each in California and Nevada, and one each in Colorado, Georgia, Kentucky, Michigan, Oregon, Tennessee, and Utah. Eight were hospitalized and three developed hemolytic uremic syndrome, a type of kidney failure. No deaths were reported. More than half of the patients are children age 5 or younger; ages range from 1 to 58, with a median age of 5. All nine people interviewed about foods eaten before their illness reported eating the cheese. Illness onsets ran from July 7 to August 26.\n\nAll four Graziers raw-milk varieties were recalled September 24 after the FDA contacted the company: medium cheddar, sharp cheddar, jalapeno jack, and Monterey jack. The cheese was sold nationwide in stores and online and has a long shelf life. The FDA advises checking refrigerators and freezers and discarding any unidentifiable raw-milk cheese.\n\nThe source of the contamination and whether additional products are affected remain under investigation. Health officials caution the true case count may be higher, since many people recover without being tested. This is the fourth raw-milk cheese outbreak in about two and a half years, with 43 sick total according to the Marler Blog. No regulatory change has been announced.",
+    "order": 12
+  },
+  {
+    "id": "meta",
+    "slug": "meta-ray-ban-gen3-muse-charm",
+    "headline": "Meta unveils camera-free Ray-Ban glasses, Gen 3 line, and 'Muse Charm' AI device",
+    "dek": "The lineup includes camera-free Ray-Bans, a $1,299 VR device, and the palm-sized Muse Charm AI device.",
+    "audio": "sg14-meta.mp3",
+    "sources": [
+      "USA Today",
+      "Reuters",
+      "Meta/EssilorLuxottica",
+      "Digital Watch Observatory"
+    ],
+    "body": "Meta unveiled a new lineup of smart eyewear and AI hardware at its Meta Connect event September 23 and 24. The lineup includes the Ray-Ban Meta Gen 3, from $449, with a 12-megapixel camera, 3K video, slimmer frames, and up to 9 hours of battery, on sale in the U.S. since September 24; the Ray-Ban Meta Audio, from $349, camera-free, with up to 12 hours of battery, shipping October 13, the company's first glasses without a camera; the Meta Adventurer, from $249, on sale October 23; VR glasses at $1,299 targeting spring 2027; and a palm-sized AI device called Muse Charm for the holidays, with no price announced. The company said its Muse personal AI agent will come to its smart glasses in the coming months.\n\nThe launch comes amid scrutiny: 75 advocacy organizations led by the ACLU had pressed Meta over plans to add facial recognition to its eyewear. Reuters reported smart-glass sales topped 7 million units last year, making Meta the focal point of privacy lawsuits and bans at some U.K. venues. Meta has not presented privacy concerns as its reason for the camera-free model.\n\nMeta shares closed at $734.00 on September 23, down 2.44 percent on the day.\n\nPrices and dates for the Philippines and nine other newly announced markets (Poland, Portugal, Israel, South Africa, Indonesia, Thailand, Hong Kong, New Zealand, Malaysia) were not announced. Whether the promised Muse glasses capabilities, such as responding to what the wearer is looking at, will actually ship is unknown; they were described as forthcoming. Meta has not stated a price for Muse Charm.",
+    "order": 13
+  },
+  {
+    "id": "press",
+    "slug": "cnn-barred-air-force-one-pool",
+    "headline": "CNN barred from Air Force One pool trip amid ongoing press-access lawsuit",
+    "dek": "The exclusion follows a ban announcement, credential seizures, a lawsuit, and a court order to restore access.",
+    "audio": "sg07-press.mp3",
+    "sources": [
+      "Reuters",
+      "court filings"
+    ],
+    "body": "CNN was not permitted to travel with the president on Air Force One on Saturday for his trip to the Tennessee-Texas college football game in Knoxville. CNN had been slated as that day's television pool representative. The networks rotate (ABC, CBS, CNN, NBC, Fox) and share camera feeds. The White House's released guidance for the trip omitted CNN. Saturday morning the president said, \"I want real news. I love an open, free press. What I don't like is the fake press,\" naming CNN and MSNBC.\n\nThe timeline: September 18, the president announced on Truth Social that CNN, MSNBC, and Politico were banned from the White House. September 19, their journalists were denied entry and had press credentials taken by the Secret Service. September 21, the three outlets sued the president and three White House officials. A federal judge then ruled the administration must temporarily restore access. The outlets were nevertheless excluded from Thursday's Xi state dinner and Saturday's Air Force One trip.\n\nThe White House press pool is a rotation in which a small group of journalists travels with the president and shares reporting, photos, and video with all outlets, because hundreds of journalists cannot fit on Air Force One or in a small room. Removing a network from the rotation leaves the event covered but removes one independent editorial voice from the room.\n\nThere have been fights over access in every administration. The administration's position is that access to the president is a privilege, not a right. The outlets argue the First Amendment bars the government from punishing journalists for the content of their coverage, a well-established principle. The unresolved question is how far it extends to discretionary access like Air Force One versus White House grounds generally. The scope of the judge's order was not detailed in the coverage, and the constitutional question remains before the courts.",
+    "order": 14
+  }
+]

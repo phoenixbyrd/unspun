@@ -1,0 +1,43 @@
+Alex: Russia has expanded its attacks on Ukraine's data centers and internet providers.
+
+Jordan: On Friday, September twenty-fifth, a Russian drone struck the Kyiv offices of Datagroup, one of Ukraine's largest telecommunications companies, killing four people and damaging a data center. In a separate attack, a fourteen-year-old boy was killed. Israel's Foreign Ministry identified him as an Israeli citizen.
+
+Alex: This follows earlier strikes this week.
+
+Jordan: Russian drone attacks on September twenty-third and twenty-fourth disrupted internet service to about one hundred thousand households in Kyiv and the surrounding region, according to Ukraine's Digital Ministry. The outages knocked out internet-delivered air-raid alerts that civilians rely on for warnings about incoming missiles and drones. Electronic transit displays in Lutsk were also affected.
+
+Alex: What are both sides saying about the targets?
+
+Jordan: On Saturday, September twenty-sixth, President Volodymyr Zelensky accused Russia of targeting civilian infrastructure to disrupt daily life, saying quote all ordinary life end quote had become a target. Russia's Defence Ministry said its forces struck data centers it claimed were used by Ukraine's military intelligence services. Ukrainian Foreign Minister Andrii Sybiha said the targeted facilities were civilian infrastructure essential to transmitting life-saving alerts.
+
+Alex: Can those claims be checked?
+
+Jordan: Whether the struck data centers served military functions is directly disputed, and independent verification of either claim was not available in the reporting reviewed. That is the honest state of it: two governments making opposite claims about the same buildings, with no independent confirmation.
+
+Alex: What happens now?
+
+Jordan: Some companies are moving data to servers abroad. Ukrainian officials warned of further outages and possible internet tariff increases from repair costs. The timeline for full restoration of internet service was not confirmed by Ukraine's Digital Ministry as of September twenty-fifth.
+
+Alex: The attacks continued through the weekend.
+
+Jordan: President Zelensky said Russian forces used more than two thousand two hundred attack drones, around one thousand six hundred fifty aerial bombs, and thirty-eight missiles of various types against Ukraine over the past week. On the morning of September twenty-sixth, a data center in Kyiv was struck twice. Zelensky said three people were injured in the first strike, including two children.
+
+Alex: What else was hit on Saturday?
+
+Jordan: At least four people were killed in attacks across Ukraine on Saturday, according to Ukrainian officials. Russia also struck port infrastructure in the Odesa region and logistics facilities. Zelensky said residential buildings, energy facilities, and other civilian infrastructure came under strikes in the Odesa, Kharkiv, Sumy, Mykolaiv, Kherson, Poltava, Zhytomyr, and Kyiv regions.
+
+Alex: How is the internet holding up?
+
+Jordan: Datagroup said all its services quote continue to operate from backup sites, end quote. Serhii Beskrestnov, a Ukrainian radio-technology specialist quoted by the B B C, said the internet network was highly decentralized and quote will not be left without internet access, end quote, while acknowledging there quote may be local disruptions, end quote.
+
+Alex: Who else saw outages?
+
+Jordan: The internet monitor NetBlocks reported partial connectivity losses across several providers, including Kyiv Link, Pautina, Utels, and Crazy Network. Crazy Network reported outages affecting customers in Kyiv and parts of the Vinnytsia and Khmelnytskyi regions.
+
+Alex: Did the strikes hit other named providers?
+
+Jordan: The B B C reported the Russian Defence Ministry also claimed to have targeted New-Telco, United D C, Kyivstar, and Parkovyi. The Institute for the Study of War noted Ukrainian authorities had not reported evidence that recent data center strikes had disrupted military or state communications. Zelensky also said drones struck a warehouse used by a McDonald's logistics partner in the Brovary district. Reuters documented the aftermath, and McDonald's Ukraine confirmed the strike, saying nobody was injured and restaurants continued operating normally.
+
+Alex: What is Zelensky asking for?
+
+Jordan: He has called for tighter sanctions and trade restrictions aimed at reducing Moscow's revenues and its ability to finance the war.

@@ -1,0 +1,59 @@
+Alex: Thirty-eight days before the midterm elections, the Supreme Court weighed in on how states check whether voters are citizens.
+
+Jordan: On Friday, in an unsigned emergency order, the Court's six conservative justices lifted a June ruling by D C district judge Sparkle L Sooknanan. That ruling had barred the Department of Homeland Security from using a revamped federal database for large-scale voter eligibility checks. Justices Sotomayor, Kagan, and Jackson dissented.
+
+Alex: What is this database?
+
+Jordan: It is called SAVE, the Systematic Alien Verification for Entitlements. It dates to nineteen eighty-six and was built to verify immigration status for public benefits. After the president's March twenty twenty-five executive order on voting, Homeland Security linked SAVE to Social Security Administration data, which covers natural-born citizens too, and enabled bulk searches by name, birthday, and Social Security number. Judge Sooknanan found, in a seventy-five-page opinion, that officials had quote haphazardly combined and repurposed the private information of millions of Americans, including citizenship data that they knew to be unreliable, end quote.
+
+Alex: How does the checking work, mechanically?
+
+Jordan: A state election office can submit a batch of names, birthdays, and Social Security numbers, and SAVE returns a citizenship determination drawn from immigration records linked to Social Security data. The concern the judge raised is about what happens when those databases disagree or contain stale information. Naturalized citizens carry the highest risk of false flags, because their records live in multiple systems that do not always sync. Someone naturalized decades ago might appear as a noncitizen in one database and a citizen in another.
+
+Alex: Has that happened?
+
+Jordan: The court record includes a plaintiff who had her registration revoked without her knowledge, and two others who had to prove their citizenship to stay registered. Those are individual cases from the litigation, not statistics. The broader accuracy question cannot be answered from public data, because the government has not disclosed the system's error rate. Homeland Security itself has acknowledged the data quote is not perfect, end quote.
+
+Alex: What did the Supreme Court actually allow?
+
+Jordan: The majority allowed Homeland Security to use SAVE for quote individualized end quote inquiries, their emphasis, and warned that it is too late in the twenty twenty-six cycle for mass voter-roll purges. The majority said the challengers' claims quote likely lack merit, end quote, citing a nineteen ninety-six immigration law obligating Homeland Security to answer states' citizenship questions. The dissent reads that law differently: the duty to answer inquiries does not authorize building a bulk-search system out of benefits-verification infrastructure. That legal fight continues in the lower courts.
+
+Alex: A note on the form this order took.
+
+Jordan: It came through the Court's emergency docket, unsigned, without full briefing or oral argument. An emergency order decides what happens right now. It does not carry the same weight as a full merits decision, and the underlying lawsuit is still being litigated.
+
+Alex: What numbers has the government put forward?
+
+Jordan: The government told the Court it has checked more than sixty-five million registrations in twenty-six states and flagged twenty-eight thousand six hundred thirty-five people as possible noncitizens. The word flagged matters. These are flags, not confirmed noncitizen voters. No public data breaks down how many were confirmed ineligible versus wrongly flagged citizens.
+
+Alex: What are the practical constraints before the election?
+
+Jordan: States' use of the system is voluntary. And the National Voter Registration Act bars most systematic roll removals within ninety days of a federal election. The midterms are November third.
+
+Alex: What did the dissent say?
+
+Jordan: Justice Jackson wrote that quote the harm caused by burdening or disenfranchising even a few lawful voters outweighs the nonexistent harm that the Government experiences when it is prevented from taking an action that it likely lacks the authority to take, end quote.
+
+Alex: And the reactions?
+
+Alex: The case has a formal name and number.
+
+Jordan: It is Department of Homeland Security, et al, versus League of Women Voters, et al, Supreme Court docket number twenty-six A three-oh-eight. The Court stayed the district court's June twenty-second order while the appeal continues in the D C Circuit, and possibly while a petition for certiorari proceeds afterward.
+
+Alex: The majority leaned on a specific statute.
+
+Jordan: The unsigned order points to a nineteen ninety-six immigration law and says quote the Federal Government has an obligation to respond to requests from state and local election officials seeking to verify the citizenship of voters, end quote. The majority wrote that the district court's order quote thus inhibits the Federal Government's efforts to assist state and local agencies in the proper administration of the midterm elections, end quote.
+
+Alex: States are not required to use the system.
+
+Jordan: Correct. The Associated Press noted that states' use of SAVE is voluntary, which limits the ruling's practical impact. Maine's secretary of state, Shenna Bellows, said the ruling will have no effect in her state because it quote does not force states to change the way we run our elections, end quote. And election law expert David Becker of the Center for Election Innovation and Research noted that existing law bars most systematic voter-roll removals within ninety days of a federal election.
+
+Alex: What did the challengers say after the ruling?
+
+Jordan: The plaintiffs and their lawyers called it quote profoundly disappointing, end quote, and said it puts quote millions of Americans at risk of being unlawfully targeted by the administration's unreliable voter purge database, end quote, before the midterms.
+
+Alex: And Justice Jackson's dissent went further on the equities.
+
+Jordan: She wrote that the Court quote focuses only on the harms the Government will purportedly suffer absent a stay, disregarding the harms that the modified SAVE system has caused, and will likely continue to cause, to lawful voters, end quote, adding that the Court quote thus misuses its equitable powers, end quote.
+
+Jordan: Homeland Security general counsel James Percival said on X that the department quote had to file an emergency petition in the Supreme Court just so we could use government data to help states stop noncitizens from illegally voting, end quote.
