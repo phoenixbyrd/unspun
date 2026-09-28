@@ -1,0 +1,36 @@
+Alex: American tech workers are facing the worst year of layoffs in recent memory, according to independent trackers that monitor the industry.
+Jordan: As of September twenty-eighth, tracked U S tech layoffs for the year have reached two hundred twenty-five thousand one hundred twenty-two workers across five hundred nineteen events.
+Alex: Those figures come from SkillSyncer's layoffs tracker, reported by Startup Fortune in a roundup published over the weekend.
+Jordan: A narrower tracker, layoffs dot f y i, counted one hundred twenty-eight thousand five hundred thirty-six cuts across two hundred ninety-nine companies as of September tenth.
+Alex: That count covers venture-backed and public tech companies, and it has already exceeded all of twenty twenty-five, when the site counted one hundred twenty-two thousand six hundred six cuts.
+Jordan: The largest single entry in the broader tracker is Oracle, with a thirty-thousand-worker cut listed on March thirty-first.
+Alex: Artificial intelligence is showing up in the stated reasons for these cuts.
+Jordan: Challenger, Gray and Christmas reports that A I was cited in eighty-seven thousand seven hundred fourteen job cuts through May of this year alone.
+Alex: That already exceeds the fifty-four thousand eight hundred thirty-six A I-attributed cuts the firm counted for all of twenty twenty-five.
+Jordan: A I led all stated reasons for layoffs for the third straight month in May.
+Alex: In May alone, thirty-eight thousand five hundred seventy-nine cuts were attributed to A I, the highest monthly total since the firm began tracking the category in twenty twenty-three.
+Jordan: Oracle's own filings tie its restructuring to that same theme.
+Alex: In a September eleventh filing, the company described a fiscal twenty twenty-six restructuring plan aimed at improving efficiency, quote, including through the adoption and integration of artificial intelligence.
+Jordan: The estimated cost of that plan reached up to two point one billion dollars as of August thirty-first, with roughly seven hundred million dollars added after that date.
+Alex: September W A R N filings in California included four hundred forty-one Bay Area positions.
+Jordan: Two hundred seventy-nine of those were in Redwood City, ninety-nine in Santa Clara, and sixty-three in Pleasanton.
+Alex: Oracle is not a company in financial trouble.
+Jordan: For the first quarter of fiscal twenty twenty-seven, the company reported net income of four point seven billion dollars.
+Alex: Its remaining performance obligations, essentially contracted future revenue, stood at six hundred sixty-four billion dollars.
+Jordan: That followed more than thirty billion dollars in new A I cloud contracts.
+Alex: The company's capital spending tells the same story: fifty-five point seven billion dollars in fiscal twenty twenty-six.
+Jordan: And guidance of ninety to ninety-five billion dollars for fiscal twenty twenty-seven.
+Alex: Oracle is not the only company cutting while spending big.
+Jordan: Microsoft is consolidating its Xbox studios, cutting two hundred eighty-six jobs this week toward a goal of three thousand two hundred fewer positions by the end of fiscal twenty twenty-seven.
+Alex: Chief Executive Satya Nadella discussed that plan on the Sources podcast.
+Jordan: Expedia filed a W A R N notice for fifty-eight headquarters jobs in Seattle, effective from late November to early December.
+Alex: PeaceHealth filed a W A R N notice on September seventeenth for fewer than two hundred fifty I T workers, effective around November twentieth.
+Jordan: The health system is outsourcing that work to Tech Mahindra and H C I Group.
+Alex: A note of caution on all of these numbers.
+Jordan: These trackers are independent aggregators, not government data. They track layoff announcements, not necessarily confirmed separations.
+Alex: And Challenger's A I figures only run through May. More recent months have not been reported yet.
+Jordan: Still, the pattern is visible well beyond Silicon Valley.
+Alex: The affected roles include engineering, customer support, content moderation, and data analysis.
+Jordan: That means the trend touches job security in fields far removed from the tech industry itself.
+Alex: Profitable companies cutting thousands of workers while citing A I is the defining feature of this year's layoff wave.
+Jordan: And with the trackers still counting, the final twenty twenty-six total is not yet written.

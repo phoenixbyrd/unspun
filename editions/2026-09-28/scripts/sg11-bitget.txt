@@ -1,0 +1,40 @@
+Alex: A major cryptocurrency exchange is dealing with one of the largest thefts of the year.
+Jordan: The exchange is Bitget. Assets worth about three hundred eighty-seven point five million dollars were moved to attacker-controlled addresses on September twenty-fourth.
+Alex: That figure is an upward revision. The first estimate was three hundred fifty-one point six million dollars.
+Jordan: The revision added Zcash and T R O N transfers from the original window. It was not a new theft.
+Alex: Bitget detected the unauthorized transfers at eighteen thirty-one U T C, from hot and warm wallet infrastructure.
+Jordan: Chief executive Gracy Chen posted a security notice at twenty-one thirty U T C, and withdrawals were paused.
+Alex: In a technical update on September twenty-fifth, Chen said the attacker compromised a backend wallet system.
+Jordan: The attacker used spoofed transaction data to bypass the exchange's own authorization checks.
+Alex: Chen ruled out a private key compromise.
+Jordan: Chen also said investigators found patterns consistent with earlier operations by North Korean hacking groups.
+Alex: That is an investigator observation, not a final published attribution. The attribution is not final.
+Jordan: On Saturday, September twenty-sixth, at eleven forty-four a m U T C, Chen posted a formal request to THORChain.
+Alex: THORChain is a decentralized cross-chain swap protocol.
+Jordan: The post read, quote, "Our attacker addresses are publicly listed and actively tracked." End quote.
+Alex: It continued, quote, "We are formally asking @THORChain to refuse service to these addresses." End quote.
+Jordan: It finished, quote, "Decentralization is a design principle, not a shield for facilitating known stolen funds. The industry is watching." End quote.
+Alex: At six seventeen p m U T C, THORChain replied.
+Jordan: It said, quote, "THORChain is decentralized and permissionless like Bitcoin, Ethereum, and B N B Chain." End quote.
+Alex: It asked, quote, "What responsibility should Bitcoin, Ethereum, and B N B Chain bear when handling known stolen funds?" End quote.
+Jordan: THORChain declined to blacklist the addresses. No node vote to pause the flows had been recorded as of September twenty-eighth.
+Alex: On-chain data firms have been tracking the money: T R M Labs, Bitquery, GoPlus Security, and THORChain's own Midgard indexer.
+Jordan: The funds are being converted from E T H, B N B, T R X, and X R P into native Bitcoin through THORChain.
+Alex: Bitquery counted one hundred twenty-six point seven one Bitcoin paid out across sixty-six THORChain swaps by September twenty-fifth.
+Jordan: About one hundred two point nine eight million X R P was the largest single asset taken.
+Alex: At three fourteen a m Eastern Time on Sunday, September twenty-seventh, another nine thousand nine hundred ninety-nine X R P left a published attacker address.
+Jordan: That X R P was swapped into Bitcoin.
+Alex: GoPlus Security estimated roughly eight point five million dollars, or one hundred one point five Bitcoin, had already exited through THORChain.
+Jordan: About forty-three million dollars, or twenty-seven point six three million X R P, was still mid-swap.
+Alex: The exact total passing through THORChain is not known. The on-chain firms' figures differ slightly.
+Jordan: The attacker also moved funds through Uniswap, one inch, Stargate, Across, Relay, Chainflip, and Circle's C C T P protocol.
+Alex: O K X founder Star Xu pushed back on THORChain's decentralization defense.
+Jordan: He argued the network halted itself for thirty-nine days after a May twenty twenty-six exploit drained ten point seven million dollars from its own vaults.
+Alex: He noted THORChain retired its admin key in February twenty twenty-five.
+Jordan: T R M Labs says Bitget's roughly four hundred sixty-four-million-dollar User Protection Fund covers the loss.
+Alex: Bitget is offering a recovery bounty paying five percent of any frozen or recovered funds.
+Jordan: Some assets have been frozen through coordination with other exchanges. So far that is a small share of the total.
+Alex: Bitget began a phased withdrawal restart with Bitcoin at eight a m U T C on September twenty-eighth, running through October second.
+Jordan: The theft happened on the twenty-fourth, but the revision, the investigation details, and the THORChain dispute all unfolded over the weekend.
+Alex: The episode revives a question for the crypto industry: whether decentralized systems that can see a theft in progress have any duty to stop it.
+Jordan: For now, the stolen funds keep moving in the open, tracked address by address, and THORChain says it will not intervene.
