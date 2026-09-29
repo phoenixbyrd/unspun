@@ -1,0 +1,37 @@
+Alex: India's Supreme Court declined on Monday to block new charges on digital payments, a decision that affects how hundreds of millions of people pay for things every day.
+
+Jordan: A three-judge bench headed by Chief Justice Surya Kant, with Justices Joymalya Bagchi and V. Mohana, declined to stay the new merchant discount rate framework. The court issued notices to the Union government, the Reserve Bank of India, and the National Payments Corporation of India, giving them four weeks to respond to a public interest litigation filed by advocate Anjan Datta.
+
+Alex: The case challenges the Centre's September fourteenth notification and the framework announced September fifteenth. The framework takes effect October fifteenth, twenty twenty-six. It imposes a zero point four percent fee on specified person-to-merchant U P I transactions above two thousand rupees, about twenty-one dollars, capped at three hundred rupees for transactions of seventy-five thousand rupees and above.
+
+Jordan: That ends nearly six years of fully free U P I. U P I, India's unified payments interface, is the world's highest-volume instant-payment system and the primary way more than a billion people transact daily.
+
+Alex: There are exemptions. Person-to-person transfers remain free regardless of amount. Merchant payments up to two thousand rupees remain free. Merchants receiving up to one lakh rupees per month are exempt. Essential sectors, railways, telecom, insurance, fuel, and agricultural inputs, pay a flat five rupees per transaction. Capital-market payments, mutual funds, securities, and brokers, face zero point zero two percent, capped at three hundred rupees.
+
+Jordan: The government says roughly ninety-six percent of person-to-merchant transactions remain unaffected. That figure is self-reported by the government, not independently audited.
+
+Alex: The Solicitor General of India told the court that no fee money goes to the government, describing it as merely a service charge levied by aggregators and banks.
+
+Jordan: The petitioner challenged the constitutional validity of amended Section ten A of the Payment and Settlement Systems Act of two thousand seven, and questioned why U P I payments above two thousand rupees are being charged while RuPay debit cards keep their no-charge protection. That is the petitioner's argument, not a ruling.
+
+Alex: The petitioner's claim that costs could eventually be passed to consumers is also argument, not fact. Officials say merchants cannot pass the fee on, but the plea notes that no disclosed cost studies exist on that question.
+
+Jordan: The reporting comes from TradingView and Moneycontrol's coverage on Monday, with additional detail from finance outlets. The decision is procedural, not final: the court declined to freeze the framework before it takes effect, and the case continues with a four-week response deadline.
+
+Alex: What it means in practice: starting October fifteenth, larger merchant payments on U P I carry a small fee, capped at three hundred rupees. Small everyday transactions, up to two thousand rupees, stay free. Person-to-person transfers stay free. Merchants are weighing whether to refuse U P I for larger sales or split transactions to stay under the threshold.
+
+Jordan: The scale is what makes this a money story of the first order. Six years of free instant payments built the habit of a billion-plus users. The fee is small in percentage terms, zero point four percent, but the behavioral question is whether merchants change what they accept, and whether the ninety-six percent figure holds once the charges are real.
+
+Alex: The mechanics of the fee are worth spelling out. The merchant discount rate is the fee a shop pays on a digital transaction, normally a small slice of the sale. For six years, U P I charged shops nothing. The new framework sets the rate at zero point four percent on larger merchant payments, with the three-hundred-rupee cap for the largest transactions.
+
+Jordan: The threshold is the key design choice. Two thousand rupees is about twenty-one dollars. Most everyday purchases, groceries, transit fares, a meal, fall under it and stay free. The fee lands on bigger-ticket merchant payments: electronics, appliances, larger retail bills.
+
+Alex: The government's defense rests on two numbers. First, the Solicitor General's statement that no fee money goes to the government, that it is merely a service charge levied by aggregators and banks. Second, the claim that roughly ninety-six percent of person-to-merchant transactions remain unaffected. The first is a court statement. The second is the government's own figure.
+
+Jordan: The petitioner's counter-questions go to fairness and proof. Why should U P I payments above two thousand rupees carry a fee while RuPay debit cards keep no-charge protection? And where are the cost studies showing merchants cannot pass the fee to consumers? Officials say they cannot pass it on. The plea says no disclosed studies exist.
+
+Alex: The timeline: the Centre issued its notification on September fourteenth, announced the framework on September fifteenth, and the charges take effect October fifteenth. The court's September twenty-eighth decision declined to freeze that timeline. The four-week response window means the government, the central bank, and the payments corporation must answer the challenge by late October, after the fees have already started.
+
+Jordan: The behavioral question is what merchants do. Some may refuse U P I for larger sales. Some may split a large bill into smaller transactions under the two-thousand-rupee threshold. The framework's drafters set the merchant exemption at one lakh rupees a month precisely to shield small shops. Whether the workarounds stay marginal or become widespread is the test the next few months will run.
+
+Alex: And the scale point bears repeating. U P I is the world's highest-volume instant-payment system. Six years of free payments built the habits of more than a billion users. A zero point four percent fee is small in percentage terms. The open question is whether small frictions change large habits.

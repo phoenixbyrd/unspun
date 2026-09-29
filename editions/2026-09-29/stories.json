@@ -1,0 +1,240 @@
+[
+ {
+  "id": "noreaster-aftermath",
+  "slug": "noreaster-aftermath",
+  "order": 1,
+  "headline": "Nor'easter finally dissipates; Northeast turns dry and warmer",
+  "dek": "The week-long storm is gone after roughly 200,000 outages and one death. Tuesday brings marked improvement, with highs into the 70s by week's end. Polo's remnants threaten the central U.S.",
+  "audio": "sg01-noreaster-aftermath.mp3",
+  "sources": [
+   "National Weather Service",
+   "Wikipedia",
+   "FlightAware",
+   "Federal Aviation Administration",
+   "Amtrak",
+   "New York City officials",
+   "weather.com",
+   "National Hurricane Center",
+   "AccuWeather"
+  ],
+  "body": "The nor'easter that spent nearly a week parked off the East Coast dissipated Tuesday, September 29, ending a storm that formed September 23 and battered the Mid-Atlantic and New England with days of heavy rain, damaging winds, and coastal flooding.\n\nThe storm's lowest pressure reached 986 hectopascals, and the highest gust recorded was 81 miles per hour at Montauk, New York. Roughly 200,000 power outages were recorded over the life of the storm. One person died and four were injured.\n\nThe death was 56-year-old Leighton Brown, a New York City Housing Authority employee killed in Brooklyn on Saturday when a tree fell on him, according to New York City officials. He had been working through the storm.\n\nMonday was still a travel disaster in the Northeast. Across the United States there were 4,338 flight delays and 481 cancellations. Boston Logan alone posted 301 cancellations and an FAA ground stop in heavy wind. LaGuardia recorded 641 delays with a ground stop until 10:00 AM Eastern. Amtrak's Boston-New York service was suspended, and tens of thousands of customers remained without power Monday morning as crews worked through fallen trees and downed lines.\n\nWind reports illustrated the storm's reach: Surf City, New Jersey at 74 mph; Harvey Cedars, New Jersey at 69; Nantucket at 59; Wellfleet on Cape Cod at 58; Kennedy Airport at 56. A full moon over the weekend worsened coastal flooding along already inundated shorelines.\n\nThe forecast at publish time is markedly better. The National Weather Service expects the decaying storm to exit Tuesday with winds shifting northwest; rain tapered off late Monday night, clouds may linger through Tuesday afternoon, and Wednesday could bring the first real sunshine. Boston sees a high of 66 today; by week's end highs should reach the 70s to near 80, above normal. Rhode Island, which took 2 to 6 inches of rain, expects mainly dry and warmer weather through Friday.\n\nElsewhere in the tropics, Tropical Storms Fay and Hanna are spinning in the central Atlantic, neither threatening land. The storm to watch is Hurricane Polo in the East Pacific: 6 to 12 inches of rain over parts of Mexico, with its remnants expected to combine with a non-tropical system and bring heavy rain and possible flash flooding to the central United States later this week. The Atlantic has still not produced a single hurricane this season, the latest such start in the satellite era, according to AccuWeather's Alex DaSilva."
+ },
+ {
+  "id": "oil-diesel",
+  "slug": "oil-diesel",
+  "order": 2,
+  "headline": "Oil tops $107 as gasoline hits $4.48 nationally; diesel export ban weighed",
+  "dek": "Brent settled above $105, diesel nears records, and the White House is considering banning diesel exports — a move oil executives warn would raise pump prices.",
+  "audio": "sg02-oil-diesel.mp3",
+  "sources": [
+   "New York Post",
+   "Barron's",
+   "AAA",
+   "Fox News",
+   "Reuters",
+   "European Central Bank",
+   "CME Group"
+  ],
+  "body": "Oil prices surged Monday, gasoline hit new milestones, and the White House is weighing a step that could reshape fuel markets.\n\nBrent crude futures jumped 2.6 percent to $107.02 a barrel intraday before settling nearly 1 percent higher at $105.28. West Texas Intermediate rose 2.7 percent to $94.91 intraday, settling slightly higher at $92.60, according to the New York Post. Barron's reported a larger intraday move — WTI up 4.1 percent to $96.27, taking September's increase to around 11.5 percent. The numbers differ because intraday and settlement snapshots come at different times; both agree the single-day jump was large.\n\nAt the pump, the national average for regular gasoline reached $4.48 a gallon Monday, per AAA — a near-10 percent increase from a month ago. Before the conflict the average was $2.98 in February and $3.13 last September. Diesel sits near $6.45 a gallon nationally, per Barron's, close to all-time highs and up more than 75 percent from a year ago; Los Angeles County diesel is approaching its all-time record.\n\nOver the weekend, President Trump said he is “looking very seriously” at banning diesel exports, in a Fox News interview reported by Barron's. Major oil executives and Energy Secretary Chris Wright pushed back, arguing such a ban would raise domestic gas prices.\n\nDiesel is the fuel that runs farms, freight trucks, and supply chains. Barron's notes economists warn energy costs could push the consumer price index above 4 percent and bleed into food and apparel prices. Markets felt it Monday morning: the Dow fell 349 points (0.7 percent), the S&P 500 dropped 0.8 percent, the Nasdaq 0.9 percent; the 10-year Treasury hit 5.263 percent and the 30-year 5.579 percent, per the New York Post.\n\nWhat drove the move: the Post reported Trump rejected an Iranian peace proposal and expects to resume U.S. strikes after the November midterms. That framing rests on the Post's reporting of Trump's remarks; no other outlet independently confirmed it. But the underlying driver — the U.S.-Iran conflict pushing up oil and gas — is independently corroborated: ECB chief Christine Lagarde, speaking Monday in Brussels, attributed eurozone inflation pressure to “surging oil and gas prices, stemming from the US-Iran conflict,” per Reuters.\n\nOne analyst, Nic Puckrin of The Coin Bureau, notes the Strategic Petroleum Reserve is at its lowest since 1982 and refined-product supplies are being drawn down — one analyst's view, not official data, but a measure of how little cushion the system has. The White House has not issued a formal export-ban plan; the next data points are the weekly inventory reports and any White House statement on exports."
+ },
+ {
+  "id": "fed-rates",
+  "slug": "fed-rates",
+  "order": 3,
+  "headline": "Markets price 70% odds of October Fed rate hike; mortgages top 7%",
+  "dek": "Surging energy prices have traders betting on another hike. The 30-year mortgage is at its highest since January 2025, and Friday's jobs report is the next test.",
+  "audio": "sg03-fed-rates.mp3",
+  "sources": [
+   "CME Group FedWatch",
+   "Barron's",
+   "Freddie Mac",
+   "Citi Research",
+   "EY-Parthenon",
+   "Federal Reserve",
+   "Federal Open Market Committee"
+  ],
+  "body": "Markets are now betting heavily that the Federal Reserve will raise interest rates again next month. The CME Group's FedWatch tool pegs the odds of an October hike at about 70 percent, with December hike odds at roughly 92 percent, according to Barron's reporting Monday. Those are market-priced probabilities, not a Fed decision.\n\nThe backdrop: on September 16, the Federal Open Market Committee voted 12-0 to raise the federal funds target to 3.75-4.00 percent, the first hike since July 2023. The dot plot median implies rates reach 4.1 percent by end-2026.\n\nWhat moved the odds: energy prices. With oil settling above $105 a barrel Monday, economists warn inflation could accelerate. Citi Research economists Andrew Hollenhorst and Veronica Clark, in a report published September 28, project September nonfarm payrolls of about 85,000 with unemployment edging from 4.1 to 4.2 percent. They call the September core CPI print the decisive variable for October; only negative payrolls or unemployment jumping to 4.3 percent would force markets to reassess.\n\nBorrowing costs are already at striking levels. The 30-year fixed mortgage rate is averaging more than 7.0 percent, the highest since January 2025, according to the Freddie Mac Primary Mortgage Market Survey.\n\nEY-Parthenon chief economist Gregory Daco, in his September 28 newsletter, wrote that interest-rate changes “cannot produce energy, resolve supply chain pressures, expand the labor force or increase semiconductor capacity.” He expects an additional quarter-point hike in December, projects full-year 2026 inflation at 2.9 percent, and notes food prices up 2.7 percent year over year as of August. Fed Governor Lisa Cook said Monday the labor market “appears to be well positioned to handle an increase in rates.”\n\nThe watch items: Friday's September jobs report, then the inflation prints. If inflation runs hot, the Fed has room in its own projection to reach 4.1 percent by year's end. If the data cools, markets will reprice just as fast. The 70 percent figure is the collective wager of traders, not inside information — and in past cycles these odds have swung sharply on a single release."
+ },
+ {
+  "id": "marines-attack",
+  "slug": "marines-attack",
+  "order": 4,
+  "headline": "Previously undisclosed Iranian missile attack injured eight U.S. Marines",
+  "dek": "NBC News reports a Sept. 14 cruise-missile strike in the Strait of Hormuz hurt eight Marines. The Pentagon had not publicly reported it; injuries were logged nearly 10 days later.",
+  "audio": "sg04-marines-attack.mp3",
+  "sources": [
+   "NBC News",
+   "Military.com",
+   "Pentagon Defense Casualty Analysis System",
+   "U.S. Army",
+   "Jerusalem Post",
+   "Al Bawaba"
+  ],
+  "body": "A U.S. military casualty event from two weeks ago is only now being reported. Eight U.S. Marines were injured in an Iranian cruise-missile attack in the Strait of Hormuz on September 14, and the public was not told at the time.\n\nAn Iranian anti-ship cruise missile struck a vessel in the Strait where eight Marines were serving, according to three U.S. officials cited by NBC News in a first report published Monday at 9:22 AM Eastern. Military.com carried an independent write-up the same day. The eight injured were seven enlisted Marines and one officer, serving as part of a battalion landing team.\n\nTheir injuries were smoke inhalation and possible traumatic brain injuries — concussion-like symptoms including headaches. Officials said the injuries were not classified as serious, and all eight returned to duty shortly after. Notably, the vessel was not a U.S. Navy ship; officials described it only as a “naval asset” or “maritime vessel” and declined to specify the type or flag.\n\nThe injuries were entered into the Pentagon's Defense Casualty Analysis System nearly 10 days after the attack. A U.S. official attributed the delay to symptoms that can appear days later and a tracking system lacking real-time updates.\n\nThere are limits to what is verified. The attack was not publicly confirmed by the Pentagon at the time of reporting — it rests on three anonymous U.S. officials speaking to NBC News. Military.com said it had reached out to the Defense Department for comment and was awaiting a response. The exact vessel type and flag are unknown by the officials' own refusal to specify.\n\nThe broader context: the war began February 28, and Monday marked the start of its seventh month, with no ceasefire reported. Pentagon data cited by Military.com put the conflict's toll at 18 dead and more than 800 wounded; the casualty system recorded 861 U.S. service members injured as of September 23. The Army also said Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died September 18 from a “non-combat related incident” and was posthumously promoted to major.\n\nDelayed casualty reporting has been an acknowledged pattern throughout this war, so official totals remain subject to revision as later-symptom injuries get logged — as these eight were. The report, sourced to U.S. officials, also indicates Iran retained the ability to strike a U.S. military asset in the world's most critical oil chokepoint in mid-September, even amid a declared blockade."
+ },
+ {
+  "id": "gulf-exports",
+  "slug": "gulf-exports",
+  "order": 5,
+  "headline": "Gulf oil exports back to 72% of prewar levels; Iranian rial hits record low",
+  "dek": "Kpler data shows Hormuz flows at their wartime highest even as ship traffic lags. Iran's currency has collapsed to 2.45 million rials per dollar.",
+  "audio": "sg05-gulf-exports.mp3",
+  "sources": [
+   "Kpler",
+   "New York Post",
+   "Energy Secretary Chris Wright",
+   "Treasury Secretary Scott Bessent",
+   "Bloomberg",
+   "Military.com"
+  ],
+  "body": "Seven months into the U.S.-Iran war, the energy corridor through the Strait of Hormuz is flowing again, and Iran's currency is in free fall. Monday brought hard numbers on both, from maritime tracker Kpler as reported by the New York Post.\n\nCrude exports from the Persian Gulf averaged more than 13 million barrels a day in September — 72 percent of prewar levels. Oil flow through the Strait of Hormuz itself averaged 7.3 million barrels a day in September, the highest during the war, with about 17 ships a day transiting — still less than half of prewar ship traffic.\n\nEnergy Secretary Chris Wright said on Fox News on Sunday, September 27, that one day in the previous week saw over 20 million barrels flow out of the Strait, more than pre-conflict levels. That is a named official's statement, not independently verified flow data. Additional Gulf flows moved through ship-to-ship transfers in the Gulf of Oman and the UAE's Fujairah port and pipeline, which bypasses the Strait entirely.\n\nUnnamed U.S. officials told the Post that rising oil flow increases American negotiating leverage. The hard numbers are Kpler's, an independent tracker, but readers should note the framing comes from U.S. officials, and the Post is a partisan outlet.\n\nOn the other side of the ledger, the Iranian rial fell to a record low of 2.45 million per U.S. dollar, versus 42,000 a year ago. Treasury Secretary Scott Bessent wrote on X: “Operation Economic Outcast has caused the rial to hit record lows. We will continue to degrade the Iranian regime's ability to fund terrorism and develop a nuclear weapon.”\n\nThe connection to American households: Hormuz oil flows are a direct driver of U.S. gas prices, and the recovering flows are the supply side of the $4.48 national gasoline average. The picture is asymmetrical — Gulf oil moving again under U.S. military protection at nearly three-quarters of prewar levels, while the blockade has collapsed Iran's currency by a factor of roughly 58 against the dollar in a year."
+ },
+ {
+  "id": "smotrich-westbank",
+  "slug": "smotrich-westbank",
+  "order": 6,
+  "headline": "Israeli minister urges Gaza-style West Bank campaign; U.N. Council meets",
+  "dek": "Smotrich called for dismantling the Palestinian Authority weeks before Israel's election. The Security Council heard 6.7 settler attacks a day and 4,300 displaced.",
+  "audio": "sg06-smotrich-westbank.mp3",
+  "sources": [
+   "Ynet",
+   "Times of Israel",
+   "Al Jazeera",
+   "Palestinian Authority",
+   "UN News",
+   "UN Office for the Coordination of Humanitarian Affairs",
+   "UNRWA",
+   "Reuters",
+   "Israeli military"
+  ],
+  "body": "Finance Minister Bezalel Smotrich said in a Ynet podcast interview published Sunday, September 27, that Israel should “go to war” in the West Bank and “do there what we did in Gaza.” He called for dismantling the Palestinian Authority — “which is a terror authority” — killing those he described as terrorists, confiscating weapons, and further restricting Palestinian movement on roads he called “our roads.” He also pointed to the depopulation of three Palestinian refugee camps in prior military operations.\n\nThe Times of Israel and Al Jazeera reported the remarks September 27-28. Context from the Times of Israel: Smotrich heads the far-right Religious Zionism party, serves as a Defense Ministry minister overseeing settlements, is campaigning ahead of Israel's October 27 general election, and has previously called for annexing more than 80 percent of the West Bank. The Palestinian Authority condemned his remarks as a call for escalation, annexation, and displacement. Whether the remarks are campaign rhetoric or a real signal is genuinely debated; Al Jazeera framed it as “rhetoric or real threat.” His words are a minister's stated position, not government policy.\n\nOn Monday, the UN Security Council met on the Middle East, and the numbers presented were stark. The UN Office for the Coordination of Humanitarian Affairs recorded more than 1,600 settler attacks in the West Bank this year — 6.7 a day, up from five a day in 2025 — with more than 4,300 Palestinians displaced. Israel invited bids for 1,234 homes in the E1 area near East Jerusalem, deadline October 19; UN officials warned the project would divide the West Bank.\n\nIn Gaza, the Council heard that 1,394 Palestinians have been killed since the October 2025 ceasefire, per UNRWA citing local health authorities, and that 94 percent of the population needs shelter assistance. Board of Peace official Nickolay Mladenov said conditions on the ground “do not yet match the documents.”\n\nSeparately Monday, Israeli strikes in Gaza killed at least two people — a woman on a Gaza City rooftop and a woman in the Nuseirat refugee camp — according to medics cited by Reuters. The Israeli military said it struck a militant in Nuseirat and did not comment on the Gaza City strike.\n\nRunning totals: more than 73,000 killed in Gaza since October 2023 per Palestinian authorities; at least 1,400 Palestinians killed since the ceasefire per Gaza health officials; four Israeli soldiers killed per the Israeli military. Gaza casualty figures come from Palestinian health authorities and cannot be independently verified by outside outlets."
+ },
+ {
+  "id": "eu-sanctions",
+  "slug": "eu-sanctions",
+  "order": 7,
+  "headline": "EU sanctions over deported Ukrainian children; sabotage warnings issued",
+  "dek": "Ten people and 17 entities sanctioned, including a North Korean camp. Kaja Kallas and NATO's top commander in Europe warned Russia is planning more sabotage.",
+  "audio": "sg07-eu-sanctions.mp3",
+  "sources": [
+   "Reuters",
+   "European Council",
+   "Kaja Kallas",
+   "NATO",
+   "Alexus Grynkewich",
+   "Wojciech Sawa"
+  ],
+  "body": "EU member countries on Monday imposed sanctions on 10 individuals and 17 entities for involvement in the unlawful deportation of Ukrainian children to Russia, Reuters reported. The list includes Moscow's City Tourism Committee, children's and sports camps in Russia, and the Songdowon International Children's Camp in North Korea, where the European Council said Ukrainian children are brought to promote pro-Russian narratives.\n\nBefore a meeting of EU defense ministers in Brussels, foreign policy chief Kaja Kallas warned that Russia is planning more sabotage: “We need to be vigilant because we see in the intelligence that Russia is planning more sabotage acts and attacks against our democracy — to divide our society, to intimidate our societies into refraining to help Ukraine.” Her assessment rests on intelligence she cited; it is not independently verified evidence.\n\nSeparately Monday, NATO Supreme Allied Commander Europe Alexus Grynkewich told EU lawmakers that Russia's goal with hybrid attacks is “to break the will of Ukraine's allies” to keep supporting Ukraine, and urged member states to publicly attribute attacks when confident. He cited an explosives-laden drone found at Leipzig Airport in early August and a Russian frigate firing signal flares at a Danish helicopter in mid-September. Independent verification beyond his statement was thin.\n\nOn the Polish-Ukrainian border, the Dorohusk-Yahodyn crossing suspended traffic three times in one day, with one evacuation, amid a pattern of alerts. That pattern follows two Russian drones exploding on the Ukrainian side on September 13. Dorohusk mayor Wojciech Sawa was quoted in the reporting.\n\nA secondary outlet reported that the EU Council also approved five joint defense projects Monday — drones and counter-drones, maritime and underwater infrastructure, space, air and missile defense, and the eastern flank. That rests on a single secondary source and should be treated as thin.\n\nThe day's through-line: sanctions targeting a specific rights issue, the deportation of children, alongside a coordinated message from the EU's top diplomat and NATO's top commander in Europe that more sabotage is coming and that allies should name perpetrators publicly when attribution is confident. The war in Ukraine is now four and a half years old, and Monday's moves show Europe's security posture shifting from reacting to incidents to warning of the next ones."
+ },
+ {
+  "id": "india-upi",
+  "slug": "india-upi",
+  "order": 8,
+  "headline": "India's Supreme Court declines to block new digital-payment fees",
+  "dek": "Starting Oct. 15, larger UPI merchant payments carry a 0.4% fee, capped at 300 rupees. Small transactions and person-to-person transfers stay free.",
+  "audio": "sg08-india-upi.mp3",
+  "sources": [
+   "Supreme Court of India",
+   "TradingView",
+   "Moneycontrol",
+   "Solicitor General of India",
+   "Reserve Bank of India",
+   "National Payments Corporation of India"
+  ],
+  "body": "India's Supreme Court declined Monday to block new charges on digital payments, a decision affecting how hundreds of millions of people pay every day.\n\nA three-judge bench headed by Chief Justice Surya Kant, with Justices Joymalya Bagchi and V. Mohana, declined to stay the new merchant discount rate framework and issued notices to the Union government, the Reserve Bank of India, and the National Payments Corporation of India, giving them four weeks to respond to a public interest litigation filed by advocate Anjan Datta. The case challenges the Centre's September 14 notification and the framework announced September 15. Reporting comes from TradingView and Moneycontrol.\n\nThe framework takes effect October 15, 2026: a 0.4 percent merchant discount rate on specified person-to-merchant UPI transactions above 2,000 rupees (about $21), capped at 300 rupees for transactions of 75,000 rupees and above. It ends nearly six years of fully free UPI — India's unified payments interface, the world's highest-volume instant-payment system and the primary way more than a billion people transact daily.\n\nExemptions: person-to-person transfers remain free regardless of amount; merchant payments up to 2,000 rupees remain free; merchants receiving up to 1 lakh rupees per month are exempt; essential sectors (railways, telecom, insurance, fuel, agricultural inputs) pay a flat 5 rupees per transaction; capital-market payments (mutual funds, securities, brokers) face 0.02 percent, capped at 300 rupees. The government says roughly 96 percent of person-to-merchant transactions remain unaffected — a self-reported figure, not independently audited.\n\nThe Solicitor General told the court that no fee money goes to the government — “merely a service charge levied by aggregators and banks.” The petitioner challenged the constitutional validity of amended Section 10A of the Payment and Settlement Systems Act, 2007, and questioned why UPI above 2,000 rupees is charged while RuPay debit cards keep no-charge protection. The petitioner's claim that costs could eventually be passed to consumers is argument, not fact; officials say merchants cannot pass it on, but the plea notes no disclosed cost studies exist.\n\nThe decision is procedural, not final: the court declined to freeze the framework before it takes effect, and the case continues with a four-week response deadline — after the fees have already started. Starting October 15, larger merchant payments carry a small capped fee while everyday transactions stay free. Merchants are weighing whether to refuse UPI for larger sales or split bills to stay under the 2,000-rupee threshold."
+ },
+ {
+  "id": "college-sports",
+  "slug": "college-sports",
+  "order": 9,
+  "headline": "Senate passes college sports overhaul 77-22, sending it to the House",
+  "dek": "Federal NIL rights, revenue sharing, a 5% agent-fee cap, and 10-year scholarship guarantees for 500,000-plus athletes — if the House acts.",
+  "audio": "sg09-college-sports.mp3",
+  "sources": [
+   "U.S. Senate Commerce Committee",
+   "Reuters",
+   "USA Today",
+   "Sen. Ted Cruz",
+   "Sen. Cory Booker"
+  ],
+  "body": "The U.S. Senate on Monday passed the Protect College Sports Act 77-22, the first federal overhaul of college athlete compensation rules, sending it to the House. The Senate invoked cloture September 24 by 74-25. The official release came from the Senate Commerce Committee, with Reuters reporting the vote.\n\nThe bill was written by Sens. Maria Cantwell (D-Wash.) and Ted Cruz (R-Texas) and introduced in June. It creates a federal right to name, image, and likeness compensation, replacing the patchwork of state laws, school policies, and booster-funded collectives that has governed NIL since 2021.\n\nSchools must share a percentage of media rights, ticket sales, and sponsorships with athletes — a revenue-sharing requirement. Agent fees are capped at 5 percent. Scholarships are guaranteed for 10 years after eligibility ends. Division I schools must cover out-of-pocket medical costs for sports-related injuries and illness for five years after eligibility. Schools cannot pull scholarships over injury or poor performance. Athletes may transfer once with immediate eligibility. Football coaches are barred from midseason moves. Schools must maintain a minimum number of women's and Olympic sports.\n\nCruz, the bill's Republican architect, said on the floor: “The most important part of the bill is bringing order to chaos,” as reported by USA Today. Sen. Cory Booker (D-N.J.) opposed it: “I regret this day... a bill that's going to hurt so many,” citing pressure from civil-rights and labor leaders and concern the bill disempowers athletes by locking in terms they did not negotiate.\n\nThe athlete-protection provisions reach into daily life: the 10-year scholarship guarantee, five years of injury medical coverage, and the ban on pulling scholarships over injury or poor performance — aimed at programs quietly pushing out hurt or underperforming players to free roster spots. The women's and Olympic sports minimum tries to prevent football and basketball money from cannibalizing non-revenue programs.\n\nThe bill now goes to the House, whose next scheduled legislative session begins November 9, six days after the midterms. Whether the House acts at all is unresolved, especially with a possible post-election power shift. NBC Sports cited an unnamed SI.com source saying there is “0.0 percent chance” the House passes it before the midterms — anonymous, and to be treated as speculation. Cruz's floor remarks, via the Commerce release, said the bill affects more than half a million college athletes."
+ },
+ {
+  "id": "alito-recusal",
+  "slug": "alito-recusal",
+  "order": 10,
+  "headline": "Justice Alito steps aside from Boulder climate case; 4-4 split possible",
+  "dek": "No reason given for the recusal ahead of the Oct. 5 argument. A tie would let Boulder's lawsuit proceed without setting national precedent.",
+  "audio": "sg10-alito-recusal.mp3",
+  "sources": [
+   "USA Today",
+   "NBC News",
+   "U.S. Supreme Court",
+   "Consumer Watchdog"
+  ],
+  "body": "The Supreme Court announced Monday that Justice Samuel Alito will not take part in next week's landmark climate case, opening the possibility of a four-to-four split. He gave no reason, according to USA Today's reporting.\n\nThe case: the city of Boulder and surrounding county sued in 2018, alleging ExxonMobil and Suncor violated state law by misleading the public about the environmental effects of fossil fuels and should help cover climate-related community costs. The companies deny the allegations and argue local governments cannot use state law for what they call a global issue. The appeal is argued October 5, the first case of the court's new term.\n\nEnvironmental groups had urged recusal because Alito owns stock in ConocoPhillips and Phillips 66, both targeted in similar suits. Alexandra Nagy of Consumer Watchdog said that as a shareholder he had been warned climate-deception suits pose financial risks to his investments. The stock-holdings explanation is an inference from critics, not a confirmed fact.\n\nThe history adds texture. Alito recused from the 2023 decision on whether the court should intervene at an earlier stage of the Colorado litigation, and did not participate in the court's 2025 rejection of a similar Hawaii appeal. In May, a court spokeswoman told NBC News that legal counsel had advised recusal was not required because “he does not have a financial interest in any party.” Four months later, he is recusing from the merits argument, with no reason given.\n\nThe arithmetic: with a 6-3 bench, one recusal opens a possible 4-4 split. If that happens, the oil companies' appeal fails and Boulder's lawsuit proceeds in the lower courts — but no national precedent is set, leaving dozens of similar suits without a Supreme Court answer. USA Today characterized the stakes as billions of dollars potentially at issue.\n\nThe underlying legal question is whether cities and counties can use state law to seek climate-damage costs from oil companies. If municipalities can recover adaptation costs from energy companies, the funding model for climate resilience changes nationwide; if they cannot, taxpayers fund sea walls, stormwater systems, and wildfire response. The direction of the outcome is unresolved."
+ },
+ {
+  "id": "save-database",
+  "slug": "save-database",
+  "order": 11,
+  "headline": "Supreme Court lets states use revamped voter-citizenship database",
+  "dek": "An unsigned Friday stay paused a ruling that found privacy violations and wrongful-removal risk. The 90-day purge bar limits immediate midterm impact.",
+  "audio": "sg11-save-database.mp3",
+  "sources": [
+   "Associated Press",
+   "National News Desk",
+   "U.S. Supreme Court",
+   "U.S. District Judge Sparkle L. Sooknanan",
+   "Brookings Institution",
+   "Travis County officials"
+  ],
+  "body": "Five weeks before the November 3 midterms, the Supreme Court has let states use a revamped federal voter-citizenship database, while the fight over whether it is lawful continues.\n\nOn Friday, September 25, the Supreme Court issued an unsigned emergency stay pausing a June 22 ruling by U.S. District Judge Sparkle L. Sooknanan (D.D.C.). She had struck down the administration's revamped Systematic Alien Verification for Entitlements (SAVE) program for voter checks, finding it violated privacy rights and risked wrongly removing voters, according to the Associated Press via the National News Desk.\n\nSAVE was built to check immigration status for benefit eligibility. The revamp expanded it for voter-roll citizenship checks, adding Social Security Administration records and bulk-search capacity by executive order. The unsigned order lets states voluntarily use the expanded database while the appeal proceeds. Voluntary is the operative word: no state is required to use it. The court did not rule on whether the program is lawful; the underlying legality question is undecided and will be litigated past the election.\n\nJustices Ketanji Brown Jackson, Elena Kagan, and Sonia Sotomayor dissented. Jackson warned the database could wrongly flag lawful voters — a concern with a factual anchor. The AP reported that in Travis County, Texas, officials investigated 97 voters flagged by SAVE as apparent noncitizens and found at least 10 percent, likely up to 21 percent, were U.S. citizens. A double-digit false-positive rate on citizenship flags is the difference between a clean roll and a disputed one.\n\nThere is a practical limit that matters more than the stay. Federal law bars most states from systematic voter-roll purges within 90 days of a federal election, and the country is inside that window. The AP assesses immediate midterm impact as likely limited; Norm Eisen of Brookings concurred, pointing to the decision's own acknowledgment of the 90-day window. Individual removals, as opposed to systematic purges, can still proceed in many states.\n\nA secondary outlet reported September 28 that a Florida judge also ordered database access for several states, disagreeing with the June ruling, citing PBS and the AP. That could not be verified against a primary source and remains developing. The verified bottom line: the database is usable by states as of Friday under an unsigned stay with three dissents; the June ruling's findings are paused, not overturned; and the Travis County check remains the hard evidence on accuracy — at least one in ten flagged voters was a citizen."
+ },
+ {
+  "id": "starship",
+  "slug": "starship",
+  "order": 12,
+  "headline": "SpaceX Starship reaches orbit for the first time; flight cut short",
+  "dek": "Fourteenth test flight deployed 26 next-gen Starlink satellites before an engine shutdown ended the mission early over the Pacific.",
+  "audio": "sg12-starship.mp3",
+  "sources": [
+   "SpaceX",
+   "The Hindu BusinessLine",
+   "Associated Press",
+   "Reuters",
+   "NASA Administrator Jared Isaacman"
+  ],
+  "body": "SpaceX's Starship reached orbit for the first time on Monday, a milestone in the largest rocket ever built — though the flight was cut short by an engine problem.\n\nThe 14th full-scale Starship test flight launched Monday from Starbase, Texas, flying the Super Heavy v3 booster. The upper stage reached orbit for the first time; Mission Control announced: “Starship is orbital.” One engine shut down prematurely before orbit, and controllers flew on with the rest. SpaceX has not detailed the cause. Earlier flights proved the booster could return and the ship could survive reentry; in July a Starship was recovered from the Indian Ocean and inspected by hand, and this flight's heat shield was modified based on those findings.\n\nThe flight deployed 26 Starlink V3 satellites — the next generation, larger and more capable — joining about 11,000 older Starlinks already providing internet service. The planned 10-hour flight (six laps at 170 miles / 275 km, 17,500 mph) was cut short after a couple of laps; Starship splashed down north of Hawaii about three hours after liftoff instead of the planned Pacific site near Chile, tipping over and erupting in flames. SpaceX said the early end was “out of an abundance of caution” over the engine trouble.\n\nNASA Administrator Jared Isaacman congratulated SpaceX on reaching orbit and “managing every step in a safe, responsible and especially inspirational way” — the agency's public read on a contractor it depends on for the moon program.\n\nThe 407-foot (124-meter) rocket is designed to be fully reusable. Next, per SpaceX and Elon Musk: the next Starship may return to the launch pad for a catch by the mechanical arms — Musk gives it even or slightly better odds, his own projection. A reflight is possible by year's end or early next year. A second launch site is nearing completion at Kennedy Space Center; a third is planned for Louisiana. Starship is meant to haul satellites in bulk, phasing out the Falcon 9 within several years.\n\nThe NASA thread: Artemis III could fly as soon as next summer — a triple-launch orbital docking exercise between an Orion capsule with astronauts, Jeff Bezos's Blue Moon lander flying first, and Musk's Starship. Artemis IV, the moon landing, is slated for no sooner than 2028, using whichever lander is ready first. Starship reaching orbit is a prerequisite for its role. Reporting: The Hindu BusinessLine (September 29, covering the September 28 flight; photos by Reuters' Steve Nesius), The Hindu's same-day AP account, SpaceX's update, and Isaacman's statement."
+ },
+ {
+  "id": "measles",
+  "slug": "measles",
+  "order": 13,
+  "headline": "Pennsylvania measles outbreak passes 900 cases; death count disputed",
+  "dek": "903 cases and 176 hospitalized as of Monday. The state reported four deaths; the CDC website lists one verified measles death. The toll is unresolved.",
+  "audio": "sg13-measles.mp3",
+  "sources": [
+   "Reuters",
+   "Pennsylvania Department of Health",
+   "Centers for Disease Control and Prevention",
+   "Gov. Josh Shapiro",
+   "HHS Secretary Robert F. Kennedy Jr."
+  ],
+  "body": "Pennsylvania's measles outbreak has crossed 900 cases, the state's worst resurgence in decades, and officials disagree over how many deaths the virus caused.\n\nPennsylvania Department of Health data, reported by Reuters on Monday at 18:33 UTC, shows 68 new measles infections since Wednesday, September 23, bringing the total to 903 as of Monday, September 28. Hospitalizations reached 176, up from 164 on September 23 — the hospitalization count rising faster than the case count is the number epidemiologists watch. Lancaster County remains the hardest-hit area; outbreaks concentrate where vaccination coverage is lowest.\n\nPennsylvania reported four measles-related deaths among unvaccinated residents earlier this month. Governor Josh Shapiro and U.S. Health Secretary Robert F. Kennedy Jr. disagree over how many were directly caused by the virus. The CDC said it was reviewing how it classifies measles-related deaths; the CDC's website now lists one “verified measles death” without confirming where it occurred.\n\nThe distinction matters. “Directly caused by the virus” versus “related to the illness” are different classifications, and the classification changes the official count — a death in a measles patient from a secondary complication can be counted either way. The CDC's review means the standard itself is under reconsideration, and the death toll is genuinely unresolved: four reported by the state, one verified on the CDC website, two officials in disagreement.\n\nNationally, the CDC reports the United States has recorded 3,659 measles cases in 2026 as of September 24. Pennsylvania's 903 is a large share of that national total. Measles was declared eliminated in the United States in 2000; outbreaks since have been measured in dozens or low hundreds. Nine hundred three cases in one state is a different scale.\n\nThe medical facts: measles is a highly contagious viral disease causing fever, rash, and respiratory complications, preventable with the MMR vaccine — 97 percent protection after two doses, among the highest efficacy figures in vaccinology. Every case in this outbreak is, in the medical sense, preventable. The open questions are the death classification and whether the curve bends."
+ },
+ {
+  "id": "glp1-pediatric",
+  "slug": "glp1-pediatric",
+  "order": 14,
+  "headline": "Study: 1 in 6 children on GLP-1 drugs developed a nutritional deficiency",
+  "dek": "Vitamin D deficiency was most common at 12.4%. Only 5% got nutritional counseling within 30 days. Researchers urge monitoring from day one.",
+  "audio": "sg14-glp1-pediatric.mp3",
+  "sources": [
+   "Childhood Obesity (journal)",
+   "Medical Dialogues",
+   "Kirk W. Kerr"
+  ],
+  "body": "A new study finds that nearly one in six children prescribed GLP-1 weight-loss drugs developed a nutritional deficiency within a year, while almost none received nutritional counseling.\n\nThe study by Kirk W. Kerr and colleagues — “Nutritional Deficiencies, Complications, and Nutrition Therapy/Counseling in Pediatric Patients Using GLP-1 Receptor Agonists” — was published in the journal Childhood Obesity in 2026 and surfaced in a Medical Dialogues bulletin September 28.\n\nResearchers analyzed national administrative claims data from 2017 through 2022, a database covering more than 100 million patients. They identified 2,031 children aged 10 to 17 who had received GLP-1 medications, had continuous health coverage, and had no previous nutritional-deficiency diagnosis. The continuous-coverage requirement means these are children whose medical records could actually be tracked.\n\nWithin one year of starting treatment, 16.8 percent were diagnosed with a nutritional deficiency. Vitamin D deficiency was most common at 12.4 percent. GLP-1 medications reduce appetite and food intake, which may make it harder for some children to obtain essential nutrients — and adolescence is a period of rapid growth when vitamin D, iron, and calcium are particularly important for bone development.\n\nThe counseling gap is stark: only 5 percent of the children received nutritional counseling within 30 days of starting treatment; fewer than 25 percent received it within six months. The researchers recommend nutritional monitoring begin when GLP-1 treatment starts, rather than after a deficiency develops.\n\nThe limits are stated by the researchers themselves. A retrospective claims-data study finds association, not causation — it cannot prove the medication caused the deficiencies, and children prescribed these drugs may differ from peers in ways the data cannot capture. Further research is needed, in the researchers' words, on how treatment affects nutrition during childhood and on monitoring and prevention approaches. With adolescent GLP-1 use growing, the study frames a practical care gap: a one-in-six deficiency rate within a year, vitamin D the most common gap, and counseling largely absent."
+ }
+]

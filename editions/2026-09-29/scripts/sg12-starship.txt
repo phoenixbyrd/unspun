@@ -1,0 +1,41 @@
+Alex: Space X's Starship reached orbit for the first time on Monday, a milestone in the largest rocket ever built, though the flight was cut short by an engine problem.
+
+Jordan: The fourteenth full-scale Starship test flight launched Monday from Starbase, Texas, flying the Super Heavy version three booster. The upper stage reached orbit for the first time. Mission Control announced, quote: Starship is orbital. End quote.
+
+Alex: One engine shut down prematurely before orbit. Flight controllers decided after several minutes to proceed with the remaining engines. The cause of the premature shutdown has not been publicly detailed. Space X has not yet released findings.
+
+Jordan: The flight deployed twenty-six Starlink version three satellites, joining about eleven thousand older Starlinks already providing internet service.
+
+Alex: The planned ten-hour flight, six laps at one hundred seventy miles, or two hundred seventy-five kilometers, altitude, at seventeen thousand five hundred miles per hour, was cut short after a couple of laps. Starship splashed down north of Hawaii about three hours after liftoff. The original plan had called for a Pacific splashdown near Chile. The vehicle tipped over and erupted in flames on splashdown. Space X said the decision to end the flight early was made out of an abundance of caution, because of the engine trouble.
+
+Jordan: NASA Administrator Jared Isaacman congratulated Space X on reaching orbit and, quote, managing every step in a safe, responsible and especially inspirational way. End quote.
+
+Alex: The rocket stands four hundred seven feet, or one hundred twenty-four meters, tall, and is designed to be fully reusable. Space X recovered a previous Starship from the Indian Ocean in July and modified this flight's heat shield based on hands-on inspection of that vehicle.
+
+Jordan: Next steps, according to Space X and Elon Musk: the next Starship may return to the launch pad for a catch by the mechanical arms. Musk gives that maneuver even or slightly better odds. That is his own projection, not a verified outcome. A reflight is possible by year's end or early next year. A second launch site is nearing completion at Kennedy Space Center, and a third is planned for Louisiana.
+
+Alex: The longer arc: Starship is meant to haul satellites in bulk, phasing out the Falcon nine within several years. Full reusability is the key to lowering launch costs.
+
+Jordan: And there is a NASA connection. Artemis three could fly as soon as next summer, a triple-launch orbital docking exercise between an Orion capsule with astronauts, Jeff Bezos's Blue Moon lander flying first, and Musk's Starship. Artemis four is slated for no sooner than twenty twenty-eight for a moon landing, using whichever lander, Blue Moon or Starship, is ready first.
+
+Alex: The reporting comes from The Hindu BusinessLine, published September twenty-ninth covering the September twenty-eighth flight, with photos by Reuters photographer Steve Nesius, plus The Hindu's same-day Associated Press account, Space X's online update, and the NASA administrator's statement.
+
+Jordan: So the milestone and the caveat together: first orbital flight, twenty-six next-generation satellites deployed, engine trouble cut the mission short, cause still undisclosed, and the next flight may attempt the pad catch. The path to the moon runs through flights like this one.
+
+Alex: Monday's flight was the fourteenth full-scale Starship test, and the program's history explains why orbit matters. Earlier flights proved the booster could return, proved the ship could survive reentry heating, and in July a Starship was recovered from the Indian Ocean and inspected by hand. This flight's heat shield was modified based on what engineers found on that recovered vehicle.
+
+Jordan: The Super Heavy booster on this flight was version three, the latest iteration. The upper stage, the Ship, is the part that reached orbit for the first time. Getting to orbital velocity, seventeen thousand five hundred miles per hour, is the threshold that separates a test hop from a spacecraft that can stay up.
+
+Alex: The engine shutdown is the open technical question. One engine shut down prematurely before orbit, and controllers flew on with the rest. Space X has not detailed the cause. In a development program, an engine-out is data. In an operational vehicle, it would be a failure review. Starship is still in development, so this becomes part of the learning record.
+
+Jordan: The next milestone Musk described is the pad catch: the booster, and eventually the Ship, returning to the launch tower to be caught by the mechanical arms. Musk gives the next attempt even or slightly better odds. That is his projection. A successful catch would be the step that makes full reusability real, the rocket landing back where it launched, ready to fly again.
+
+Alex: The satellite angle matters commercially. Twenty-six Starlink version three satellites went up on this flight. Version three is the next generation: larger, more capable, joining about eleven thousand older Starlinks already in service. Starship's cavernous payload bay is designed to haul them in bulk, dozens at a time, which is why Musk plans to phase out the Falcon nine within several years.
+
+Jordan: The infrastructure is expanding in parallel. A second Starship launch site is nearing completion at Kennedy Space Center in Florida. A third is planned for Louisiana. Starbase, Texas remains the test ground. Multiple pads are the prerequisite for the flight rate Musk wants.
+
+Alex: And the NASA thread: Artemis three could fly as soon as next summer. The architecture is a triple-launch orbital docking exercise: an Orion capsule carrying astronauts, Jeff Bezos's Blue Moon lander flying first, and Musk's Starship, all meeting in orbit. Artemis four, the moon landing, is slated for no sooner than twenty twenty-eight, using whichever lander is ready first. Starship reaching orbit is a prerequisite for its role in that plan.
+
+Jordan: Isaacman's congratulations carried institutional weight. As NASA administrator, his statement that Space X managed every step in a safe, responsible and especially inspirational way is the agency's public read on a contractor it depends on for the moon program.
+
+Alex: So the flight in full: first orbit, twenty-six satellites deployed, engine trouble, early splashdown north of Hawaii, vehicle lost on landing. The milestone stands. The engine question is open. And the next flight may try the catch.

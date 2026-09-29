@@ -1,0 +1,35 @@
+Alex: Five weeks before the November third midterms, the Supreme Court has let states use a revamped federal voter-citizenship database, while the fight over whether it is lawful continues.
+
+Jordan: On Friday, September twenty-fifth, the Supreme Court issued an unsigned emergency stay pausing a June twenty-second ruling by United States District Judge Sparkle L. Sooknanan of the District of Columbia. She had struck down the administration's revamped Systematic Alien Verification for Entitlements program, known as S A V E, for voter checks, finding it violated privacy rights and risked wrongly removing voters. That reporting comes from the Associated Press, via the National News Desk.
+
+Alex: The order lets states voluntarily use the expanded S A V E database to check citizenship on voter rolls while the appeal proceeds. The database now includes Social Security Administration records and bulk searches, added by executive order. The court did not rule on whether the program is lawful. The underlying legality question is undecided and will be litigated past the election.
+
+Jordan: Justices Ketanji Brown Jackson, Elena Kagan, and Sonia Sotomayor dissented. Jackson warned the database could wrongly flag lawful voters, according to the reporting.
+
+Alex: There is a practical limit that matters more than the stay itself. Existing federal law bars most states from systematic voter-roll purges within ninety days of an election. The Associated Press notes that the immediate midterm impact is therefore likely limited. Norm Eisen, a senior fellow at Brookings, concurred, saying the decision makes clear that the country is in the ninety-day statutory window when mass changes cannot be made to voter lists.
+
+Jordan: The accuracy question is documented. The Associated Press reported that in Travis County, Texas, officials investigated ninety-seven voters flagged by S A V E as apparent noncitizens and found that at least ten percent, likely up to twenty-one percent, were United States citizens. That is a verified false-positive rate in the double digits from one county's check.
+
+Alex: A secondary outlet reported on September twenty-eighth that a Florida judge also ordered access to the database for several states, disagreeing with the June ruling, citing P B S and the A P. That development could not be verified against a primary source in this check, so it is reported here as developing, not confirmed.
+
+Jordan: The stakes as stated: the ruling governs what citizenship-checking tools election officials may use in the five weeks before the midterms. The documented risk, from the Travis County figures, falls on naturalized citizens and other lawful voters who could be wrongly flagged.
+
+Alex: And the countervailing fact: the court did not bless the program. It paused the block. States may use the tool voluntarily while the courts decide whether the tool itself is legal. That decision will come after the election.
+
+Jordan: To recap: Friday, September twenty-fifth, unsigned stay, S A V E database usable by states while the appeal proceeds. Judge Sooknanan's June twenty-second ruling had found privacy violations and wrongful-removal risk. Three justices dissented. Ninety-day federal purge bar limits immediate impact before November third. Travis County found at least ten percent of ninety-seven flagged voters were citizens. The legality fight continues past the election.
+
+Alex: The S A V E system itself predates this fight. The Systematic Alien Verification for Entitlements was built to check immigration status for benefit eligibility. The administration's revamp expanded it for voter-roll citizenship checks, adding Social Security Administration records and bulk-search capacity by executive order. That expansion is what Judge Sooknanan struck down on June twenty-second, finding privacy violations and a risk of wrongly removing voters.
+
+Jordan: Friday's unsigned order does not revisit those findings. It pauses them. States may now voluntarily query the expanded database while the appeal runs its course. Voluntary is the operative word: no state is required to use it.
+
+Alex: The dissenters' concern is concrete, not abstract. Justice Jackson warned the database could wrongly flag lawful voters. The Travis County numbers give that warning a factual anchor: ninety-seven voters flagged as apparent noncitizens, at least ten percent and likely up to twenty-one percent of them United States citizens. In a close race, a double-digit false-positive rate on citizenship flags is the difference between a clean roll and a disputed one.
+
+Jordan: The ninety-day rule is the guardrail. Federal law bars most states from systematic voter-roll purges within ninety days of a federal election. With the midterms on November third, the country is inside that window. The Associated Press assessment is that immediate impact is likely limited, and Norm Eisen of Brookings agreed, pointing to the decision's own acknowledgment of the ninety-day window.
+
+Alex: But limited is not zero. Individual removals, as opposed to systematic purges, can still proceed in many states, and the database is now available as a tool. The question for election officials is how aggressively to use it, knowing the documented error rate.
+
+Jordan: The legal fight's timeline extends past the election. The appeal will decide whether the expanded S A V E program, with its Social Security records and bulk searches, is lawful at all. Friday's stay is about the interim: who gets to use the tool while the courts decide.
+
+Alex: The Florida item remains unconfirmed. A secondary outlet reported a Florida judge ordered database access for several states, disagreeing with the June ruling, citing P B S and the A P. Without a primary source, it stays in the developing column.
+
+Jordan: The verified bottom line: the database is usable by states as of Friday, September twenty-fifth, under an unsigned stay, with three dissents. The June ruling's privacy and wrongful-removal findings are paused, not overturned. The ninety-day purge bar limits systematic action before November third. And the Travis County check remains the hard evidence on accuracy: at least one in ten flagged voters was a citizen.
